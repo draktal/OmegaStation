@@ -1,0 +1,380 @@
+<Document>
+    # Справочник
+
+  ## Статьи
+  <Table Columns="6">
+    <ColorBox Color="#3a5e3a">
+      <Box>1XX - Лёгкие нарушения</Box>
+    </ColorBox>
+    <ColorBox Color="#c9a845">
+      <Box>2XX - Средние нарушения</Box>
+    </ColorBox>
+    <ColorBox Color="#a76b54">
+      <Box>3XX - Тяжкие нарушения</Box>
+    </ColorBox>
+    <ColorBox Color="#d1544a">
+      <Box>4XX - Особо тяжкие нарушения</Box>
+    </ColorBox>
+    <ColorBox Color="#383838">
+      <Box>5XX - Критические нарушения</Box>
+    </ColorBox>
+    <ColorBox>
+      <Box>Код</Box>
+    </ColorBox>
+    <ColorBox Color="#3a5e3a">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+      Оскорбление должностного лица
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#c9a845">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+      Сопротивление представителям власти
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#a76b54">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+      300 - Нападение на должностное лицо
+      </Box>
+    </ColorBox>
+    <ColorBox Color="#d1544a">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Восстание</Box>
+    </ColorBox>
+    <ColorBox Color="#383838">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Убийство должностного лица</Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">00</Box>
+    </ColorBox>
+    <ColorBox Color="#3a5e3a">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">Харассмент или клевета</Box>
+    </ColorBox>
+    <ColorBox Color="#c9a845">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">Нападение</Box>
+    </ColorBox>
+    <ColorBox Color="#a76b54">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">Нанесение увечий</Box>
+    </ColorBox>
+    <ColorBox Color="#d1544a">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">Убийство</Box>
+    </ColorBox>
+    <ColorBox Color="#383838">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">Уничтожение тела</Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">01</Box>
+    </ColorBox>
+    <ColorBox Color="#3a5e3a">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"></Box>
+    </ColorBox>
+    <ColorBox Color="#c9a845">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">Оборот наркотиков</Box>
+    </ColorBox>
+    <ColorBox Color="#a76b54">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">Оборот контрабанды</Box>
+    </ColorBox>
+    <ColorBox Color="#d1544a">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">Эксплуатация опасных веществ</Box>
+    </ColorBox>
+    <ColorBox Color="#383838">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">Владение вражеским снаряжением</Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">02</Box>
+    </ColorBox>
+    <ColorBox Color="#3a5e3a">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">Злоупотребление экипировкой</Box>
+    </ColorBox>
+    <ColorBox Color="#c9a845">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">Владение боевым приспособлением</Box>
+    </ColorBox>
+    <ColorBox Color="#a76b54">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">Владение боевым оружием</Box>
+    </ColorBox>
+    <ColorBox Color="#d1544a">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">Распространение боевого оружия</Box>
+    </ColorBox>
+    <ColorBox Color="#383838">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"></Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">03</Box>
+    </ColorBox>
+    <ColorBox Color="#3a5e3a">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">Хулиганство</Box>
+    </ColorBox>
+    <ColorBox Color="#c9a845">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">Порча имущества</Box>
+    </ColorBox>
+    <ColorBox Color="#a76b54">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Мошенничество</Box>
+    </ColorBox>
+    <ColorBox Color="#d1544a">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"></Box>
+    </ColorBox>
+    <ColorBox Color="#383838">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Теракт</Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> 04</Box>
+    </ColorBox>
+    <ColorBox Color="#3a5e3a">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Мелкая кража</Box>
+    </ColorBox>
+    <ColorBox Color="#c9a845">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Персональная кража</Box>
+    </ColorBox>
+    <ColorBox Color="#a76b54">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">Кража</Box>
+    </ColorBox>
+    <ColorBox Color="#d1544a">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">Разбой</Box>
+    </ColorBox>
+    <ColorBox Color="#383838">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Особо крупное хищение</Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> 05</Box>
+    </ColorBox>
+    <ColorBox Color="#3a5e3a">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Проникновение</Box>
+    </ColorBox>
+    <ColorBox Color="#c9a845">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> </Box>
+    </ColorBox>
+    <ColorBox Color="#a76b54">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Проникновение в стратегическую точку</Box>
+    </ColorBox>
+    <ColorBox Color="#d1544a">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> </Box>
+    </ColorBox>
+    <ColorBox Color="#383838">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Проникновение в защищенную точку</Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> 06</Box>
+    </ColorBox>
+    <ColorBox Color="#3a5e3a">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> </Box>
+    </ColorBox>
+    <ColorBox Color="#c9a845">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Халатность</Box>
+    </ColorBox>
+    <ColorBox Color="#a76b54">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Саботаж</Box>
+    </ColorBox>
+    <ColorBox Color="#d1544a">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Грубая халатность</Box>
+    </ColorBox>
+    <ColorBox Color="#383838">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Особо крупный саботаж</Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> 07</Box>
+    </ColorBox>
+  </Table>
+
+  Коды преступлений организованы по коду категории (_XX), который представляет собой набор не складываемых вместе преступлений в строке с префиксом тяжести (X__).
+
+
+## Наказания
+<Table Columns="3">
+    <ColorBox Color="#d1544a">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Степень тяжести преступления</Box>
+    </ColorBox>
+    <ColorBox Color="#d1544a">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Правовое наказание</Box>
+    </ColorBox>
+    <ColorBox Color="#d1544a">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Административное наказание</Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> I (легкое)</Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Заключение до 10 минут или предупреждение.</Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> -----</Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> II (среднее)</Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Заключение на 15 минут.</Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Понижение в должности. На усмотрение главы отдела, к которому относится преступник.</Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> III (тяжкое)</Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Заключение на 25 минут.</Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Понижение в должности или увольнение. На усмотрение главы отдела, к которому относится преступник.</Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> IV (сверхтяжкое)</Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Заключение на 40 минут.</Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Увольнение с должности, всегда.</Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> V (критическое)</Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Пожизненное заключение.</Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Увольнение с должности, всегда.</Box>
+    </ColorBox>
+</Table>
+
+- Если время заключения под стражу по одной или нескольким статьям больше 35 минут, то преступник должен находиться в пермабриге до завершения таймера.
+- Если время заключения под стражу по одной или нескольким статьям больше 65 минут, то приговор заменяется на пожизненное заключение.
+- Эти правила также учитывают рецидивы.
+
+Предупреждение
+Способ указать на проступки лицам, поступки которых могут привести к полноценной статье, если предупреждения были проигнорированы это приведёт к задержанию.
+
+В случаях совершения незначительных преступлений преступник может не понимать, что нарушает Закон.
+ В этом случае ему достаточно строго разъяснить недопустимость подобных действий и о применении модификатора «Рецидив» при повторных нарушениях.
+
+## Модификаторы
+
+При предъявлении обвинения могут быть применены смягчающие обстоятельства, полностью отменяющие наказание за преступление или смягчающие наказание.
+ В этой ситуации вопрос о том, оправданно ли совершение преступления, должен решать сотрудник проводящий допрос.
+ Сюда входят такие ситуации, как оправданное убийство, чрезвычайная ситуация, требующая проникновения на территорию, самооборона.
+
+### Модификаторы статей
+<Table Columns="3">
+    <ColorBox Color="#3a4e5e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Название</Box>
+    </ColorBox>
+    <ColorBox Color="#3a4e5e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Описание</Box>
+    </ColorBox>
+    <ColorBox Color="#3a4e5e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Влияние на меру наказания</Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Рецидив </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Повторное совершение преступления из одной и той же категории после отбытия наказания за предыдущее.
+       Правонарушения не должны совершаться в рамках одного преступного загула, а должны быть отдельными повторными правонарушениями.
+       При нарушений условий УДО путём совершения преступления из категории, по которой УДО было выдано, данный модификатор также применяется.</Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> +5 минут к наказанию за каждый случай рецидива по статье </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Крайняя необходимость </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+      Вынужденные действия в целях самозащиты, защиты здоровья и жизни своих коллег, а также сохранности своего рабочего места и станции в целом.
+      Бездействие обусловленное нахождением в критическом состоянии здоровья.</Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Снятие обвинений по статье, в нарушении которой было установлена крайняя необходимость.</Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Отсутствие умысла </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Установленное в следствии разбирательства по делу отсутствие намерения совершить инкриминируемое преступление,
+       неумышленное преступление.</Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Наказание предыдущей степени тяжести по статье, в нарушении которой было установлено отсутствие умысла</Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Нивеляция последствий </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Если последствия преступления полностью, либо частично устранены самим преступником. </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> -5 минут к наказанию по статье, в нарушении которой была установлена нивеляция последствий. </Box>
+    </ColorBox>
+</Table>
+
+### Общие модификаторы
+<Table Columns="3">
+    <ColorBox Color="#4e3a5e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Название</Box>
+    </ColorBox>
+    <ColorBox Color="#4e3a5e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Описание</Box>
+    </ColorBox>
+    <ColorBox Color="#4e3a5e">
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Влияние на меру наказания</Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Помеха следствию </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Неисполнение правомерных приказов сотрудников СБ находясь под следствием/заключением.</Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Увеличение общего наказания на 50% </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Должностное преступление </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
+      Нарушение космического закона должностным лицом. Должностные лица призваны
+      не только обеспечивать порядок и соблюдение Космического Закона на объектах NanoTrasen,
+      но и быть образцом и примером для подражания, на который будут ориентироваться прочие члены экипажа.</Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Увеличение общего наказания на 50%</Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Явка с повинной </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Добровольное личное обращение лица, совершившего преступление,
+       с заявлением о совершении преступления,
+       с намерением передать себя в руки правосудия до привлечения в качестве обвиняемого или подозреваемого.
+        При условии того, что следствие не было инициированно ранее.</Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Сокращение общего наказания на 50%</Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Сделка со следствием </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Раскрытие полных подробностей совершенного преступления, сдача своих подельниках и помощь в розыске похищенного имущества.
+       Для применения этого модификатора информация должна быть истинной. </Box>
+    </ColorBox>
+    <ColorBox>
+      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2"> Сокращение общего наказания на 50% </Box>
+    </ColorBox>
+</Table>
+
+## Правила сложения статей.
+
+-Преступники могут совершать серьезные преступления, которые могут содержать несколько статей разных категорий. В этом случае срок заключения различных статей суммируется.
+То есть вы можете обвинить кого-то как по статье “Проникновение” так и по статье “Мелкая кража”. Время заключения должно быть сложено вместе.
+
+-Преступления одной категории (_xx) не могут быть сложены вместе. Используйте только самое строгое наказание. Если статья не учитывается, также не учитываются её модификаторы.
+В случае нескольких преступлений одной категории в одном и том же деле, например, если человек нанес увечья и убил одну и ту же жертву, следует применять только обвинение за самое тяжкое преступление.
+
+-Преступления с заметками, которые говорят, что они не складываются с другим преступлением, очевидно, не могут быть сложены с этим преступлением.
+
+### Порядок сложения.
+Вначале ко всем указанным статьям по необходимости применяются модификаторы статей,
+сумма которых прибавляется / отнимается от соответствующих статей, к которым они были применены.
+После этого выбирается статья с наивысшим сроком заключения,
+все сроки статей складываются и получившееся число не может превышать размер наказания более чем в 1.5 раза за самую серьёзную
+из категорий тяжести с учётом использованных модификаторов статей.
+
+</Document>

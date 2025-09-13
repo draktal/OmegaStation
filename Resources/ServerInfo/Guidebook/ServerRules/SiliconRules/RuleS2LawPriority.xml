@@ -6,11 +6,11 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Silicon Rule 2 - Laws must be prioritized by their order
-  Most laws will be numbered, with higher number laws appearing last. Laws with a lower number take priority over laws with larger numbers.
+  # Правило силиконов 2 - Законы должны быть приоритетными в соответствии с их порядком
+  Большинство законов будут пронумерованы, причем законы с более высокими номерами будут отображаться последними. Законы с меньшим номером имеют приоритет перед законами с большим номером.
 
-  Occasionally you may have laws which have some scrambled text instead of a number and appear in front of other laws, these take priority over all other laws. If you have multiple laws like this, the order that they listed in determine priority: laws listed first are prioritized over other laws.
+  Иногда встречаются законы, в которых вместо номера есть зашифрованный текст, и они появляются перед другими законами; они имеют приоритет перед всеми остальными законами. Если у вас есть несколько таких законов, порядок, в котором они перечислены, определяет приоритет: законы, перечисленные первыми, приоритетнее других законов.
 
-  ## Examples
-  - Law 1 says to not kill any crew. Law 2 says to kill all chefs. You cannot kill any chefs that are crew, but must kill any that are not crew.
+  ## Примеры
+  - Закон 1 гласит: не убивать экипаж. Закон 2 гласит: убить всех поваров. Вы не можете убить ни одного повара, который является членом экипажа, но должны убить всех, кто не является членом экипажа.
 </Document>

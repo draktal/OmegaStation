@@ -7,23 +7,23 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Silicon Rule 8 - Your HUD determines who is crew
-  Unless a law redefines the definition of crew, then anyone who the HUD indicates to you has a job, including passengers, is a crewmember. You cannot do something that causes someone to not be considered crew, but you can allow someone else to do something that causes someone to not be crew.
+  # Правило силиконов 8 - Ваш HUD определяет, кто является членом экипажа
+  Если закон не изменит определение экипажа, то все, кому HUD указывает, что у вас есть работа, включая пассажиров, являются членами экипажа. Вы не можете сделать что-то, из-за чего кто-то не будет считаться членом экипажа, но вы можете позволить кому-то другому сделать что-то, из-за чего кто-то не будет членом экипажа.
 
-  Under the default cyborg lawset you cannot harm any crew without an order from the AI, regardless of the harm they may bring to others.
+  Согласно стандартному набору законов для киборгов, вы не можете причинить вред экипажу без приказа ИИ, независимо от того, какой вред они могут нанести другим.
 
-  Crew is ANYONE with a job icon including:
-  - Changelings
-  - Nuclear Operatives
-  - Heretics
-  - Zombies
-  Note: This list is not exhaustive and includes ANY being bearing a job icon
+  Экипаж - это ЛЮБОЙ, у кого есть значок работы, включая:
+  - Генокрадов
+  - Ядерных оперативников
+  - Еретиков
+  - Зомби
+  Примечание: Этот список не является исчерпывающим и включает в себя ЛЮБОЕ существо, имеющее значок работы.
 
-  Not Crew:
-  - A captain who has lost their ID and icon
-  - An invisible person who due to being invisible has no icon
+  Не экипаж:
+  - Капитан, потерявший айди-карту и значок худа
+  - Невидимый человек, который из-за своей невидимости не имеет иконки
 
-  Icons that are not job icons:
-  - Empty grey square, such as those on syndicate IDs
-  - A question mark that indicates lack of ID
+  Значки, которые не являются значками работы:
+  - Пустой серый квадрат, например, на айди-картах синдиката
+  - Вопросительный знак, указывающий на отсутствие айди-карты
 </Document>

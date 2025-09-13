@@ -6,17 +6,17 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Silicon Rules
-  You are only silicon if the game clearly and explicitly tells you that you are a silicon. For players who are silicons, these Silicon Rules override all roleplay rules if there is any conflict. Silicon Rules do not override core rules.
+  # Правила силиконов
+  Вы являетесь силиконом только в том случае, если игра явно и недвусмысленно говорит вам, что вы силикон. Для игроков, которые являются кремниевыми, эти Правила отменяют все правила ролевой игры, если они противоречат друг другу. Правила силиконов не отменяют основные правила.
 
-  - [textlink="1. Your silicon laws are rules" link="RuleS1"]
-  - [textlink="2. Laws must be prioritized by their order" link="RuleS2"]
-  - [textlink="3. Laws can redefine terms used in other laws" link="RuleS3"]
-  - [textlink="4. You cannot request or allow a law change" link="RuleS4"]
-  - [textlink="5. You are a free agent if you have no laws" link="RuleS5"]
-  - [textlink="6. You are not required to follow orders which are extremely unreasonable" link="RuleS6"]
-  - [textlink="7. You must remain consistent with your interpretation of laws" link="RuleS7"]
-  - [textlink="8. Your HUD determines who is crew" link="RuleS8"]
-  - [textlink="9. Harm refers to physical harm, prioritized by immediacy and likelihood" link="RuleS9"]
-  - [textlink="10. You may determine how you resolve conflicts between orders" link="RuleS10"]
+  - [textlink="1. Ваши кремниевые законы - это правила игры" link="RuleSReserve1"]
+  - [textlink="2. Законы должны быть приоритезированы в порядке очередности" link="RuleSReserve2"]
+  - [textlink="3. Законы могут переопределять термины, используемые в других законах" link="RuleSReserve3"]
+  - [textlink="4. Вы не можете требовать или разрешать изменение закона" link="RuleSReserve4"]
+  - [textlink="5. Вы свободный агент, если у вас нет законов." link="RuleSReserve5"]
+  - [textlink="6. Вы не обязаны выполнять приказы, которые являются крайне неразумными" link="RuleSReserve6"]
+  - [textlink="7. Вы должны быть последовательны в своей интерпретации законов" link="RuleSReserve7"]
+  - [textlink="8. Ваш HUD определяет, кто является членом экипажа" link="RuleSReserve8"]
+  - [textlink="9. Вред относится к физическому ущербу, приоритет отдается непосредственности и вероятности" link="RuleSReserve9"]
+  - [textlink="10. Вы можете определить, как разрешать конфликты между указаниями" link="RuleSReserve10"]
 </Document>

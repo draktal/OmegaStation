@@ -1,18 +1,11 @@
-<!--
-SPDX-FileCopyrightText: 2024 Chief-Engineer <119664036+Chief-Engineer@users.noreply.github.com>
-SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-
-SPDX-License-Identifier: AGPL-3.0-or-later
--->
-
 <Document>
-  # Ban Types
+  # Типы банов
 
-  Bans can be appealed at forum.ss14.io in the ban appeals section.
+  Баны можно обжаловать в дискорде ред спейса https://discord.gg/4QxY5QXE создав тикет в соответствии с формой.
 
-  ## Role Ban
-  Also called a "job ban", this ban prevents your character from joining or late-joining a round as one or more jobs or roles. These are often used in response to problematic behavior in particular departments or address gross inexperience in important roles such as heads of staff. These bans do not mechanically prevent you from switching to the role during a round or acting as that role, but doing so is considered ban evasion.
+  ## Бан роли
+  Также называемый "джоббан", этот бан не позволяет вашему персонажу зайти в раунд в качестве одной или нескольких должностей или ролей. Они часто используются в ответ на проблемное поведение в определенных отделах или в связи с вопиющей неопытностью на важных должностях, таких как командование или СБ. Эти запреты не мешают вам механически переключиться на роль во время раунда или действовать в этой роли, но это считается обходом бана.
 
-  ## Game Ban
-  Also called a "server ban", this ban prevents you from connecting to all Wizard's Den servers.
+  ## Игровой бан
+  Также называемый "серверный бан", этот запрет не позволит вам подключиться ко всем серверам сети Reserve.
 </Document>

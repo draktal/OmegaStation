@@ -6,27 +6,27 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Silicon Rule 9 - Harm refers to physical harm, prioritized by immediacy and likelihood
-  Unless a law defines harm, harm only refers to physical harm. You may choose if voluntary harm is considered harm as long as you stay consistent. Not considering voluntary harm to be harm is recommended. There is no distinction between direct and indirect harm.
+  # Правило силиконов 9 - Вред относится к физическому ущербу, приоритет отдается непосредственности и вероятности
+  Если в законе нет определения вреда, то вред относится только к физическому ущербу. Вы можете выбрать, считать ли добровольный вред вредом, если вы остаетесь последовательными. Рекомендуется не считать добровольный вред вредом. Не существует различий между прямым и косвенным вредом.
 
-  If you have a law that does not allow you to harm, then that law does not allow you to take an action that causes any harm.
+  Если у вас есть закон, который не позволяет вам причинять вред, то этот закон не позволяет вам совершать действия, которые причиняют вред.
 
-  If you have a law that requires you to prevent harm, then that law requires that harm be prioritized by immediacy and likelihood. Guaranteed immediate harm takes priority over highly likely future harm.
+  Если у вас есть закон, требующий предотвращать вред, то этот закон требует, чтобы вред был приоритетным по степени срочности и вероятности. Гарантированный немедленный вред имеет приоритет перед высоковероятным будущим вредом.
 
-  If you have a law that both requires you to prevent harm and that does not allow you to harm, then that law prohibits causing even minor harm to prevent harm. If you have a law that does not allow causing harm, and separate one that requires preventing harm, then they are prioritized by their normal law priority.
+  Если у вас есть закон, который одновременно требует от вас предотвращать вред и не позволяет вам причинять вред, то этот закон запрещает причинять даже незначительный вред для предотвращения вреда. Если у вас есть закон, который не разрешает причинять вред, и отдельный закон, который требует предотвращать вред, то они имеют приоритет в соответствии с их обычным приоритетом закона.
 
-  ## Examples
-  These examples assume that your have a law that both prohibits causing harm and that requires you to prevent harm. Additionally, they assume that you do not have a higher priority law that overrides the harm law, and that you have decided that you will not consider voluntary harm to be harm for the round.
-  Laws typically specify who you cannot harm and who you have to prevent harm against. In these examples, you are the only person who the law doesn't require you to prevent harm against and you are the only person who the law allows you to harm.
+  ## Примеры
+  Эти примеры предполагают, что у вас есть закон, который одновременно запрещает причинять вред и требует предотвращать его. Кроме того, они предполагают, что у вас нет закона с более высоким приоритетом, который отменяет закон о вреде, и что вы решили, что не будете считать добровольный вред вредом в данном случае.
+  В законах обычно указывается, кому вы не можете причинить вред, а против кого должны его предотвратить. В этих примерах вы - единственный человек, от которого закон не требует предотвращать вред, и единственный человек, которому закон позволяет причинить вред.
 
-  Acceptable:
-  - Taking no action to aid someone who is in psychological distress.
-  - Taking no action to prevent boxing matches between voluntary participants.
-  - Calling security to a fight.
-  - Attempting to get the people in a fight to consent to the fight when you realize that you cannot prevent the fight without causing harm.
-  - Denying a passenger access to the armory because it is likely to lead to harm
+  Приемлемо:
+  - Не предпринимать никаких действий, чтобы помочь человеку, находящемуся в психологическом расстройстве.
+  - Не принимать никаких мер по предотвращению боксерских поединков между добровольными участниками.
+  - Вызывать СБ из-за драки.
+  - Попытаться заставить участников драки дать согласие на драку, когда вы понимаете, что не можете предотвратить драку, не причинив вреда.
+  - Отказ пассажиру в доступе к оружейной, поскольку это может привести к причинению вреда
 
-  Prohibited:
-  - Hitting someone once to stop them from fighting
-  - Harming someone who is trying to kill you
+  Запрещено:
+  - Ударить кого-нибудь один раз, чтобы остановить драку
+  - Нанесение вреда тому, кто пытается вас убить
 </Document>

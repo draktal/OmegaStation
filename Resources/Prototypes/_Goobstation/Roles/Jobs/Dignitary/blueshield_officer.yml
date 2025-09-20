@@ -28,8 +28,8 @@
 
 - type: job
   id: BlueshieldOfficer
-  name: Blueshield Officer
-  description: "Act as a bodyguard and advisor for Command and CentCom VIPs."
+  name: Офицер Синего Щита # Omega Station localisation
+  description: "Охраняйте глав станции и ВИП персон, чего бы это не стоило." # Omega Station localisation
   playTimeTracker: JobBlueshieldOfficer
   requirements:
     - !type:DepartmentTimeRequirement

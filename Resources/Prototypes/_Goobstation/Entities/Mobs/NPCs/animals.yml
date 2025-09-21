@@ -561,10 +561,10 @@
       - FootstepSound
 
 - type: entity
-  name: brullbar
+  name: Ревущий # Omega Station localisation
   id: MobBrullbar
   parent: [ SimpleSpaceMobBase, MobCombat ]
-  description: It's like a bear, but not as huggable.
+  description: Он похож на медведя, но его не так приятно обнимать. # Omega Station localisation
   components:
   - type: HTN
     rootTask:
@@ -609,10 +609,10 @@
   - type: Fauna # Lavaland Change
 
 - type: entity
-  name: brullbar king
+  name: Король ревущих # Omega Station localisation
   id: MobBrullbarKing
   parent: MobBrullbar
-  description: Looks mean, is mean. You better run.
+  description: Выглядит злобно, хотя так и есть. Лучше беги. # Omega Station localisation
   components:
   - type: Sprite
     drawdepth: Mobs

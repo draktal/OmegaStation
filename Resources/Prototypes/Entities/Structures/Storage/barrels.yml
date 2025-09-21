@@ -2,8 +2,8 @@
   parent: [ StorageTank ]
   id: BaseBarrelChem
   abstract: true
-  name: chemical barrel
-  description: A small metal drum. How tropical.
+  name: Химическая бочка # Omega Station localisation
+  description: Маленькая металлическая бочка. Нечего удивительного. # Omega Station localisation
   components:
   - type: Sprite
     sprite: Structures/Storage/barrels.rsi
@@ -55,8 +55,8 @@
   parent: BaseBarrelChem
   id: BaseBarrelChemRadioactive
   abstract: true
-  name: radioactive barrel
-  description: It seems to be leaking a bit. I don't think you'd want to be around this for long.
+  name: Радиоактивная бочка # Omega Station localisation
+  description: Кажется, тут немного протекает. Не думаю, что тебе необходимо стоять здесь слишком долго. # Omega Station localisation 
   components:
   - type: Sprite
     state: radbarrel

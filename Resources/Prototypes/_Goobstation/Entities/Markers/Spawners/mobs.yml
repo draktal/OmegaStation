@@ -4,7 +4,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 - type: entity
-  name: Brullbar Spawner
+  name: Спавнер ревущего # Omega station localisation
   id: SpawnMobBrullbar
   parent: MarkerBase
   components:
@@ -18,7 +18,7 @@
     - MobBrullbar
 
 - type: entity
-  name: Brullbar King Spawner
+  name: Спавнер короля ревущих # Omega Station localisation
   id: SpawnMobBrullbarKing
   parent: MarkerBase
   components:

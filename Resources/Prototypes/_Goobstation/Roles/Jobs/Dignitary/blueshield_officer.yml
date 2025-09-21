@@ -28,7 +28,7 @@
 
 - type: job
   id: BlueshieldOfficer
-  name: Офицер Синего Щита # Omega Station localisation
+  name: офицер синего щита # Omega Station localisation
   description: "Охраняйте глав станции и ВИП персон, чего бы это не стоило." # Omega Station localisation
   playTimeTracker: JobBlueshieldOfficer
   requirements:

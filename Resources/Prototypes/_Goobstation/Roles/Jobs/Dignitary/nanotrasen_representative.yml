@@ -95,7 +95,7 @@
 
 - type: job
   id: NanotrasenRepresentative
-  name: Представитель Центком # Omega Station localisation
+  name: представитель НТ # Omega Station localisation
   description: "Представляй Нанотрайзен, отсылайте ФАКСы на Центком и оценивайте ситуацию на станции." # Omega Station localisation
   playTimeTracker: JobNanotrasenRepresentative
   requirements:

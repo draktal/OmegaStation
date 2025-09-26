@@ -307,6 +307,7 @@
   id: Honkops
   components:
   - type: RandomMetadata # this generates the random operation name cuz it's cool.
+    minPlayers: 20
     nameSegments:
     - OperationPrefixHonkops
     - OperationSuffixHonkops

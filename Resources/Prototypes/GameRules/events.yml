@@ -358,7 +358,7 @@
     weight: 3
     earliestStart: 45
     reoccurrenceDelay: 20
-    minimumPlayers: 60
+    minimumPlayers: 15 # Omega Station
     duration: null
     chaos: # Goobstation
       Hostile: 20
@@ -398,7 +398,7 @@
     duration: null
     earliestStart: 45
     reoccurrenceDelay: 20
-    minimumPlayers: 30
+    minimumPlayers: 20 # Omega Station
     chaos: # Goobstation
       Hostile: 20
       Friend: 20
@@ -512,7 +512,7 @@
     weight: 3.5
     duration: 1
     earliestStart: 30
-    minimumPlayers: 20
+    minimumPlayers: 12 # Omega Station
     chaos: # Goobstation
       Hostile: 20
       Friend: 20
@@ -792,7 +792,7 @@
   components:
   - type: StationEvent
     earliestStart: 90
-    minimumPlayers: 40
+    minimumPlayers: 25 # Omega Station
     weight: 1 # Zombies was happening basically every single survival round, so now it's super rare
     duration: 1
     chaos: # Goobstation
@@ -958,7 +958,7 @@
   components:
   - type: StationEvent
     earliestStart: 0
-    minimumPlayers: 20
+    minimumPlayers: 15
     maxOccurrences: 1 # this event has diminishing returns on interesting-ness, so we cap it
     weight: 5
     chaos: # Goobstation

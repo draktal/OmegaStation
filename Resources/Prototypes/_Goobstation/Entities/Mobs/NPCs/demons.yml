@@ -5,10 +5,10 @@
 
 
 - type: entity
-  name: living curse
+  name: Живое проклятие # Omega Station
   id: MobLivingCurse
   parent: [ SimpleSpaceMobBase, MobCombat ]
-  description: Exceedingly slow, but is immune to all forms of damage, except holy.
+  description: Чрезвычайно медлителен, но невосприимчив ко всем видам урона, кроме святого. # Omega Station
   components:
   - type: Bloodstream
     bloodMaxVolume: 5
@@ -85,7 +85,7 @@
   name: ???
   id: MobSpookyGhost1
   parent: MobLivingCurse
-  description: You have no idea what this is!
+  description: У тебя нет понятия, что это такое # Omega Station
   components:
   - type: PointLight
     radius: 1.5
@@ -117,10 +117,10 @@
     loot: DiamondOre1Unprocessed
   
 - type: entity
-  name: glutton
+  name: Жирдяй # Omega Station
   parent: [ SimpleSpaceMobBase, MobCombat ]
   id: BaseMobGlutton
-  description: Something that was once a clown.
+  description: Вроде это когда-то было клоуном # Omega Station
   components:
     - type: HTN
       rootTask:
@@ -204,10 +204,10 @@
 
 
 - type: entity
-  name: abyss crawler
+  name: Ползун бездны
   parent: [ SimpleSpaceMobBase, MobCombat ]
   id: MobAbyssCrawler
-  description: A pale mass of heaving flesh that gropes around in the gloom. It doesn't appear to have any eyes.
+  description: Бледная масса колышущейся плоти, которая бродит в темноте. Глаз у неё, похоже, нет. # Omega Station
   components:
     - type: HTN
       rootTask:

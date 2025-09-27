@@ -4,11 +4,11 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 - type: entity
-  name: fermid
+  name: Муравей # Omega Station
   id: MobFermidBase
   parent: [ SimpleSpaceMobBase, MobCombat ]
   abstract: true
-  description: Extremely hostile asteroid-dwelling bugs. Best to avoid them wherever possible.
+  description: Крайне враждебные насекомые, обитающие на астероидах. Лучше избегать их по возможности. # Omega Station
   components:
   - type: VentCrawler # goobstation - Ventcrawl
   - type: Body # Shitmed Change
@@ -95,12 +95,12 @@
     factor: 0.5 # times more dangerous than a crew-member
 
 - type: entity
-  name: fermid
+  name: Муравей # Omega Station
   id: MobFermidSmall
   parent: MobFermidBase
 
 - type: entity
-  name: fermid
+  name: Муравей # Omega Station
   id: MobFermidLarge
   parent: MobFermidBase
   components:
@@ -133,7 +133,7 @@
     factor: 1 # times more dangerous than a crew-member
 
 - type: entity
-  name: warrior fermid
+  name: Воин-Муравей # Omega Station
   id: MobFermidWarrior
   parent: MobFermidBase
   components:
@@ -169,10 +169,10 @@
     factor: 1.5 # times more dangerous than a crew-member
 
 - type: entity
-  name: fermid queen
+  name: Королева муравьёв # Omega Station
   id: MobFermidQueen
   parent: MobFermidBase
-  description: Did anyone bring insect repellent?
+  description: Кто-нибудь взял с собой средство от насекомых? # Omega Station
   components:
   - type: Sprite
     drawdepth: Mobs

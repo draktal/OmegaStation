@@ -1,7 +1,7 @@
 - type: entity
   id: PolymorphShadowJauntAnimation
-  name: Unknown
-  description: You can't figure out what that is.
+  name: Неизвестность # Omega Station
+  description: Что это такое? # Omega Station
   categories: [ HideSpawnMenu ]
   components:
   - type: Sprite
@@ -14,8 +14,8 @@
 
 - type: entity
   id: PolymorphShadowJauntEndAnimation
-  name: Unknown
-  description: You can't figure out what that is.
+  name: Неизвестность # Omega Station 
+  description: Что это такое? # Omega Station
   categories: [ HideSpawnMenu ]
   components:
   - type: Sprite
@@ -28,8 +28,8 @@
 
 - type: entity
   id: PolymorphShadowJaunt
-  name: Unknown
-  description: You can't figure out what that is.
+  name: Неизвестность # Omega Station
+  description: Что это такое? # Omega Station
   parent: BaseMobJaunt
   categories: [ HideSpawnMenu ]
   components:

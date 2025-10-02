@@ -1,7 +1,7 @@
-﻿- type: entity
+- type: entity
   id: RMCOverheadRoadsign
-  name: road sign
-  description: A road sign.
+  name: Дорожный знак # omega station local
+  description: Просто дорожный знак. # omega station local
   placement:
     mode: SnapgridCenter
     snap:

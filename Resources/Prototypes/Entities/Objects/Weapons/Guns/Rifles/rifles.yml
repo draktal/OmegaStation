@@ -305,10 +305,10 @@
   - type: Appearance
 
 - type: entity
-  name: Estoc # goob
+  name: Эсток # goob (omega station local)
   parent: [BaseWeaponRifle, BaseSyndicateContraband]
   id: WeaponRifleEstoc
-  description: A designated assault rifle with a scope, favored for medium-to-long range engagements. Uses .20 rifle ammo. # goob
+  description: Специальная штурмовая винтовка с оптическим прицелом, предназначенная для стрельбы на средних и дальних дистанциях. Использует винтовочные патроны 20-го калибра. # goob (omega station local)
   components:
   - type: Sprite
     sprite: Objects/Weapons/Guns/Rifles/estoc.rsi

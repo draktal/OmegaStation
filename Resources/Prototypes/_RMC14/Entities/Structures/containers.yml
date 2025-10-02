@@ -1,8 +1,8 @@
 - type: entity
   abstract: true
   id: RMCContainerBase
-  name: cargo container
-  description: A huge industrial shipping container.
+  name: Грузовой контейнер
+  description: Огромный индустриальный контейнер для перевозок.
   placement:
     mode: SnapgridCenter
   components:
@@ -103,8 +103,8 @@
 - type: entity
   parent: RMCContainerBase
   id: RMCContainerFujinLeft
-  name: Fujin Cargo Container
-  description: "A huge industrial shipping container.\nThis one is from Fujin, a manufacturer of a variety of electronical and mechanical products.\nAt least, that is what is says on the container. You have literally never heard of this company before."
+  name: Грузовой контейнер "Фьюджен" # Omega station local
+  description: "Огромный индустриальный контейнер для перевозок.\nЭтот продукт от компании Fujin, производителя разнообразной электронной и механической продукции.\nПо крайней мере, так написано на упаковке. Вы буквально никогда раньше не слышали об этой компании." # Omega station local
   suffix: Fujin, Left
   components:
   - type: Sprite
@@ -121,8 +121,8 @@
 - type: entity
   parent: RMCContainerBase
   id: RMCContainerApocraphyLeft
-  name: Apocraphy Cargo Container
-  description: "A huge industrial shipping container.\nThis one is from The Apocrahpy Corporation, a manufacturer of medical and biotechnological parts.\nYou remember hearing about one of their latest drugs, and how dangerous it was... though they claimed to be close to finding a solution."
+  name: Грузовой контейнер "Апократия" # Omega station local
+  description: "Огромный индустриальный контейнер для перевозок\nЭтот продукт от корпорации Apocrahpy, производителя медицинских и биотехнологических деталей.\nВы помните, как слышали об одном из их последних препаратов и насколько он был опасен... Хотя они утверждали, что близки к нахождению решения." # Omega station local
   suffix: Apocraphy, Left
   components:
   - type: Sprite
@@ -139,8 +139,8 @@
 - type: entity
   parent: RMCContainerBase
   id: RMCContainerPathosLeft
-  name: Pathos Cargo Container
-  description: "A huge industrial shipping container.\nThis one is from Pathos, a computer parts and motion detector manufacturer.\nYou still wonder why we have a container of old Motion Detectors, and if they even still work."
+  name: Грузовой контейнер "Патос" # Omega Station local
+  description: "Огромный индустриальный контейнер для перевозок.\nЭтот продукт от компании Pathos, производителя компьютерных комплектующих и датчиков движения.\nВы все еще задаетесь вопросом, почему у нас есть контейнер со старыми датчиками движения, и работают ли они еще." # Omega Station local
   suffix: Pathos, Left
   components:
   - type: Sprite
@@ -157,8 +157,8 @@
 - type: entity
   parent: RMCContainerBase
   id: RMCContainerWeYaLeft
-  name: Weston-Yamada Cargo Container
-  description: "A huge industrial shipping container.\nThis one is from The Weston-Yamada Corporation, you have probably heard of them before."
+  name: Грузовой контейнер "Вестон-Ямада" # Omega Station local
+  description: "Огромный индустриальный контейнер для перевозок.\nЭтот проект принадлежит корпорации Weston-Yamada, о которой вы наверняка уже слышали." # Omega Station local
   suffix: WeYa, Left
   components:
   - type: Sprite
@@ -207,8 +207,8 @@
 - type: entity
   parent: RMCContainerBase
   id: RMCContainerTrijentLeft
-  name: Trijent Corporation Cargo Container
-  description: "A huge industrial shipping container.\nThis one is from The Trijent Corporation's mining operations.\nIf this breaks open, you figure you probably shouldn't breathe in what's inside."
+  name: Грузовой контейнер "Корпорация Трийент" # Omega Station local
+  description: "Огромный индустриальный контейнер для перевозок.\nЭтот экземпляр — часть горнодобывающей деятельности корпорации Trijent.\nЕсли он разобьется, вы поймете, что вам, вероятно, не следует вдыхать то, что внутри." # Omega station local
   suffix: Trijent, Left
   components:
   - type: Sprite
@@ -257,8 +257,8 @@
 - type: entity
   parent: RMCContainerBase
   id: RMCContainerFerretLeft
-  name: Ferret Heavy Industries Cargo Container
-  description: "A huge industrial shipping container.\nThis one is from Ferret Heavy Industries, a manufacturer of terrestrial crawlers and powerloaders.\nUnfortunately, the company went bankrupt. Fortunately, these containers are really cheap now."
+  name: Грузовой контейнер "Феррет хеви индастриес" # Omega Station local
+  description: "Огромный индустриальный контейнер для перевозок.\nЭтот экземпляр от Ferret Heavy Industries, производителя наземных гусеничных тракторов и погрузчиков.\nК сожалению, компания обанкротилась. К счастью, эти контейнеры сейчас очень дёшевы." # Omega station local
   suffix: Ferret, Left
   components:
   - type: Sprite
@@ -283,8 +283,8 @@
 - type: entity
   parent: RMCContainerBase
   id: RMCContainerNovarisLeft
-  name: Novaris Cargo Container
-  description: "A huge industrial shipping containerThis one is from Novaris, they makes just about anything and everything.\nYou notice this container has a peeling note on it, saying all contents were transferred from another station decades ago, how long has it been here?"
+  name: Грузовой контейнер "Новейрис" # Omega station local
+  description: "Огромный промышленный грузовой контейнер. Этот контейнер от Novaris, они производят практически всё.\nВы замечаете, что на этом контейнере есть отклеивающаяся записка, в которой говорится, что все его содержимое было перевезено с другой станции несколько десятилетий назад. Как долго он находится здесь??" # Omega station local
   suffix: Novaris, Left
   components:
   - type: Sprite
@@ -309,8 +309,8 @@
 - type: entity
   parent: RMCContainerBase
   id: RMCContainerAICMiddle
-  name: AIC Cargo Container
-  description: "A huge industrial shipping container.\nThis one is from the Asian Industrial Collective, which was absorded into the SPP. Their massive industrial output has ensured that cargo containers bearing their symbols and name won't be disappearing any time soon."
+  name: Грузовой контейнер "AIC" # Omega station local
+  description: "Огромный промышленный грузовой контейнер.\nЭтот принадлежит Азиатскому промышленному коллективу, вошедшему в состав Азиатской промышленной партии (SPP). Благодаря их огромному промышленному производству грузовые контейнеры с их символикой и названием не исчезнут в ближайшее время." # Omega station local
   suffix: AIC, Middle
   components:
   - type: Sprite
@@ -320,8 +320,8 @@
   parent: RMCContainerBase
   id: RMCContainerSPPLeft
   suffix: SPP, Left
-  name: SPP Cargo Container
-  description: "A huge industrial shipping container.\nThis one is from the Socailists Progressive Peoples, as indicated by the massive symbol on the side."
+  name: Грузовой контейнер "SPP" # Omega station local
+  description: "Огромный промышленный грузовой контейнер.\nЭтот экземпляр принадлежит движению «Социалисты-прогрессивные народы», на что указывает массивный символ сбоку." # Omega station local
   components:
   - type: Sprite
     state: sppcontainerleft
@@ -370,8 +370,8 @@
   parent: RMCContainerBase
   id: RMCContainerMSPLeft
   suffix: MSP, Left
-  name: Ministry of Space Protection Cargo Container
-  description: "A huge industrial shipping container.\nThis one belongs to the SPP's Ministry of Space Protection."
+  name: Грузовой контейнер Министерства по защите космоса # Omega station local
+  description: "Огромный промышленный грузовой контейнер.\nЭтот принадлежит Министерству по защите космического пространства SPP." # Omega station local
   components:
   - type: Sprite
     state: mspcontainerleft
@@ -396,8 +396,8 @@
   parent: RMCContainerBase
   id: RMCContainerUNMCLeft
   suffix: UNMC, Left
-  name: United Nations Marine Corps Cargo Container
-  description: "A huge industrial shipping container.\nThis one belongs to the UN's United Nations Marine Corps."
+  name: Грузовой контейнер Корпуса морской пехоты ООН # Omega station local
+  description: "Огромный промышленный грузовой контейнер.\nЭтот принадлежит Корпусу морской пехоты ООН." # Omega station local
   components:
   - type: Sprite
     state: unmccontainerleft
@@ -422,8 +422,8 @@
   parent: RMCContainerBase
   id: RMCContainerAegisLeft
   suffix: Aegis, Left
-  name: AEGIS Cargo Container
-  description: "A huge industrial shipping container.\nThis one is from AEGIS, the defense contractors behind the M54C and other marine weaponry."
+  name: Грузовой контейнер "Аегис" # Omega station local
+  description: "Огромный промышленный грузовой контейнер.\nЭтот экземпляр от AEGIS, оборонного подрядчика, стоящего за M54C и другим морским оружием." # Omega station local
   components:
   - type: Sprite
     state: aegiscontainerleft

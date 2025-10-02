@@ -4,10 +4,10 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 - type: entity
-  name: Trevor
+  name: Тревор # Omega station local
   parent: [MobHorse, ShowSecurityIcons]
   id: MobTrevor
-  description: A thousand years of space evolution and this is the best we could come up with.
+  description: Тысяча лет космической эволюции — и это лучшее, что мы смогли придумать. # Omega station local
   components:
   - type: Sprite
     drawdepth: Mobs

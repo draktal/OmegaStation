@@ -1,3 +1,4 @@
+
 <Document>
 # Воры
   
@@ -68,10 +69,17 @@
   Вещи, которые вы можете пожелать, включают, но не ограничиваются:
   
   <Box>
+<<<<<<< HEAD
    <GuideEntityEmbed Entity="ToyFigurineGreytider" Caption="фигурки"/>
    <GuideEntityEmbed Entity="PassengerIDCard" Caption="ID карты"/>
    <GuideEntityEmbed Entity="ChemDispenser" Caption="структуры"/>
    <GuideEntityEmbed Entity="MobCorgiIan" Caption="животные/питомцы"/>
+=======
+    <GuideEntityEmbed Entity="ToyFigurineGreytider" Caption="Figurines"/>
+    <GuideEntityEmbed Entity="PassengerIDCard" Caption="ID cards"/>
+    <GuideEntityEmbed Entity="ChemDispenser" Caption="Structures"/>
+    <GuideEntityEmbed Entity="MobCorgiIan" Caption="Animals/Pets"/>
+>>>>>>> 96767c6f00ebd147f4ccec9a61bbf5eadd78e952
   </Box>
 
 </Document>

@@ -34,6 +34,7 @@
     <GuideEntityEmbed Entity="MobRatServant" Caption=""/>
   </Box>
 
+<<<<<<< HEAD
   Крысиные короли — это аномально крупные грызуны, способные [color=yellow]создавать огромные армии крыс[/color], поедая огромное количество пищи.
   - У вас есть несколько способностей, которые требуют затрат [bold]голода[/bold].
   - Одна из таких способностей — [color=yellow][italic]Призвать армию[/italic][/color], которая призывает [bold]Крысиного слугу[/bold]. Вы можете [bold]командовать[/bold] своими слугами, чтобы они оставались на месте, следовали за вами, атаковали выбранную цель или атаковали всех подряд.
@@ -41,6 +42,15 @@
   - [color=#9daa98][italic]Рыться[/italic][/color] в мусорном баке можно через контекстное меню. Используйте это, чтобы найти [bold]остатки еды[/bold] для увеличения своей армии.
   - Помимо ваших способностей, [bold]вы сильнее большинства других животных[/bold]. Вы и ваши слуги можете говорить, и вы оба достаточно малы, чтобы пролезать под шлюзами и столами.
   - [bold]Ваши подчинённые всё ещё очень хрупкие![/bold] Остерегайтесь космоса, взрывов и острой стороны холодного оружия.
+=======
+  Rat kings are abnormally large rodents capable of [color=yellow]raising huge rat armies[/color] by eating equally huge amounts of food.
+  - You have several abilities that come at the cost of your [bold]hunger.[/bold]
+  - One such ability is [color=yellow][italic]Raise Army[/italic][/color], which summons a [bold]Rat Servant[/bold]. You can [bold]command[/bold] your servants to stay in place, follow you, attack a target of your choice or attack indiscriminately.
+  - You can conjure a cloud of [color=#77b58e]ammonia[/color] using [color=purple][italic]Rat King's Domain[/italic][/color]. This purple gas is mildly poisonous to humans but heals rats.
+  - [color=#9daa98][italic]Rummage[/italic][/color] through a disposal unit by using the context menu. Use this to find [bold]scraps of food[/bold] to grow your army.
+  - Besides your abilities, [bold]you are stronger than most other animals.[/bold] You and your servants are capable of speech and you're both small enough to fit under airlocks and tables.
+  - [bold]Your underlings are still very fragile![/bold] Beware of spacings, explosions and the business end of a melee weapon.
+>>>>>>> 96767c6f00ebd147f4ccec9a61bbf5eadd78e952
 
   # Космический дракон
 
@@ -68,7 +78,13 @@
     <GuideEntityEmbed Entity="MobGiantSpiderAngry" Caption=""/>
   </Box>
 
+<<<<<<< HEAD
   У слаймов и пауков нет выдающихся особенностей, но они время от времени [color=cyan]заполоняют станцию[/color]. И те, и другие будут преследовать и атаковать всё, что увидят.
   - Слаймы могут [bold]наносить дополнительный клеточный или ядовитый урон[/bold], в зависимости от их цвета. Вода вредит им так же, как и слаймолюдям.
   - Пауки имеют ядовитый укус и могут [bold]создавать паутину[/bold], через которую трудно пройти. Паутина легко уничтожается лезвием. Они также могут взламывать шлюзы.
+=======
+  Slimes and spiders have no remarkable features, but will [color=cyan]infest the station[/color] from time to time regardless. Both will give chase and attack anything they see.
+  - Slimes may [bold]deal extra cellular or poison damage[/bold], based upon their color. Water hurts them just as it would hurt a slime person.
+  - Spiders have a venomous bite and can [bold]create webs[/bold] that are hard to move through, but are easily destroyed with a blade. They can also pry open doors, windoors, and airlocks.
+>>>>>>> 96767c6f00ebd147f4ccec9a61bbf5eadd78e952
 </Document>

@@ -407,6 +407,37 @@
       mindRoles:
       - MindRoleHeadRevolutionary
 
+      - type: entity
+
+- type: entity
+  id: Hitman
+  parent: BaseGameRule
+  components:
+  - type: GameRule
+    minPlayers: 12
+  - type: TraitorRule
+  - type: AntagSelection
+    selectionTime: IntraPlayerSpawn
+    definitions:
+    - prefRoles: [ Hitman ]
+      max: 1
+      playerRatio: 20
+      blacklist:
+        components:
+        - CommandStaff
+        - AntagImmune
+        - Changeling
+      briefing:
+        text: head-rev-role-greeting
+        color: CornflowerBlue
+        sound: "/Audio/Ambience/Antag/headrev_start.ogg"
+      startingGear: HitmanGear
+      components:
+      - type: Hitman
+  - type: Tag
+    tags:
+      - CalmAntag
+
 - type: entity
   id: Sandbox
   parent: BaseGameRule

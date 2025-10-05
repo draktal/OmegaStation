@@ -1,8 +1,8 @@
 - type: entity
-  name: ancient base xeno
+  name: Древний ксено # omega station local
   id: CMBaseXeno
   parent: SimpleSpaceMobBase
-  description: An alien drone.
+  description: Инопланетный дрон. # omega station local
   abstract: true
   components:
   - type: CombatMode
@@ -145,7 +145,7 @@
   - type: Fauna # Lavaland Change
 
 - type: entity
-  name: ancient drone
+  name: Древний дрон
   id: CMMobXenoDrone
   parent: CMBaseXeno
   components:
@@ -162,10 +162,10 @@
         - MobLayer
 
 - type: entity
-  name: ancient Burrower
+  name: Древний буровик # Omega station local
   id: CMMobXenoBurrower
   parent: CMBaseXeno
-  description: A beefy alien with sharp claws.
+  description: Мускулистый пришелец с острыми когтями. # Omega station local
   components:
   - type: Sprite
     drawdepth: Mobs
@@ -195,10 +195,10 @@
     factor: 1 # times more dangerous than a crew-member
 
 - type: entity
-  name: ancient warrior
+  name: Древний воин # Omega station local
   id: CMMobXenoWarrior
   parent: CMBaseXeno
-  description: A beefy alien with an armored carapace.
+  description: Мускулистый пришелец с бронированным панцирем. # Omega station local
   components:
   - type: Sprite
     drawdepth: Mobs
@@ -236,10 +236,10 @@
     factor: 1.8 # times more dangerous than a crew-member
 
 - type: entity
-  name: ancient crusher
+  name: Древний дробильщик # Omega station local
   id: CMMobXenoCrusher
   parent: CMBaseXeno
-  description: A huge alien with an enormous armored crest.
+  description: Огромный пришелец с огромным бронированным гребнем. # Omega station local
   components:
   - type: Sprite
     drawdepth: Mobs
@@ -277,10 +277,10 @@
     factor: 2 # times more dangerous than a crew-member
 
 - type: entity
-  name: ancient ravager
+  name: Древний опустошитель # Omega station local
   id: CMMobXenoRavager
   parent: CMBaseXeno
-  description: A huge, nasty red alien with enormous scythed claws.
+  description: Огромный, отвратительный красный пришелец с огромными острыми когтями. # Omega station local
   components:
   - type: Sprite
     drawdepth: Mobs
@@ -317,10 +317,10 @@
     factor: 2.5 # times more dangerous than a crew-member
 
 - type: entity
-  name: ancient king
+  name: Древний король # Omega station local
   id: CMMobXenoKing
   parent: CMBaseXeno
-  description: A massive alien covered in spines and armoured plates.
+  description: Огромный пришелец, покрытый шипами и бронированными пластинами. # Omega station local
   components:
   - type: Sprite
     drawdepth: Mobs
@@ -374,10 +374,10 @@
     factor: 5 # times more dangerous than a crew-member
 
 - type: entity
-  name: ancient queen
+  name: Древняя королева # Omega station local
   id: CMMobXenoQueen
   parent: CMBaseXeno
-  description: The Queen, in all her glory.
+  description: Королева во всей красе. # Omega station local
   components:
   - type: Sprite
     drawdepth: Mobs
@@ -450,10 +450,10 @@
     factor: 5 # times more dangerous than a crew-member
 
 - type: entity
-  name: ancient rogue king
+  name: Древний король-разбойник # Omega station local
   id: CMMobXenoRogueKing
   parent: CMMobXenoQueen
-  description: Driven into isolation, after all these years, this King has grown to be an unstoppable killing machine.
+  description: Загнанный в изоляцию после всех этих лет, этот король превратился в неостановимую машину для убийств. # Omega station local
   components:
   - type: Sprite
     drawdepth: Mobs

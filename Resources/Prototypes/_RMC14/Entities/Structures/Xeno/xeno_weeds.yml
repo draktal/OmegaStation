@@ -1,7 +1,9 @@
+# Omega Station localisation: checkthiskd lic.
+
 - type: entity
   id: XenoWeeds
-  name: weeds
-  description: Weird black weeds...
+  name: Сорняки
+  description: Странные черные сорняки...
   placement:
     mode: SnapgridCenter
     snap:
@@ -86,8 +88,8 @@
 - type: entity
   parent: XenoWeeds
   id: XenoWeedsSource
-  name: weed node
-  description: A weird, pulsating node
+  name: Узел сорняков
+  description: Странный пульсирующий узел
   components:
   - type: Sprite
     sprite: _RMC14/Structures/Xenos/xeno_weeds.rsi
@@ -170,8 +172,8 @@
 - type: entity
   parent: XenoHardyWeeds
   id: XenoHardyWeedsSource
-  name: hardy weed node
-  description: A weird, pulsating node
+  name: Выносливый узел сорняков
+  description: Странный пульсирующий узел
   components:
   - type: Sprite
     sprite: _RMC14/Structures/Xenos/xeno_weeds.rsi

@@ -1,9 +1,11 @@
+# Omega station localisation: checkthiskd lic.
+
 - type: entity
   parent: [SimpleSpaceMobBase, FlyingMobBase]
   id: BaseMobShadowlingAscendant
-  name: shadowling ascendant
+  name: Восходящий Тенеморф
   suffix: ""
-  description: A shadowling ascendant. If you're seeing this, you're probably dead.
+  description: Восходящий Тенеморф. Если вы это видите, вы, вероятно, уже мертвы.
   components:
   - type: Bloodstream
     bloodMaxVolume: 650

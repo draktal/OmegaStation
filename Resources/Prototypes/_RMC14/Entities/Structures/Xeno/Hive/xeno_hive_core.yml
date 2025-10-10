@@ -1,8 +1,10 @@
+# Omega Station localisation: checkthiskd lic.
+
 - type: entity
   id: HiveCoreXeno
   parent: BaseHiveStructure
-  name: hive core
-  description: A giant pulsating mound of mass. It looks very much alive.
+  name: Ядро улья
+  description: Гигантский пульсирующий холмик массы. Он выглядит очень живым.
   components:
   - type: Transform
     anchored: true
@@ -32,8 +34,8 @@
 - type: entity
   id: HivePylonXeno
   parent: BaseHiveStructure
-  name: hive pylon
-  description: A towering spike of resin. Its base pulsates with large tendrils.
+  name: Опора для улья
+  description: Высокий шип из смолы. У его основания пульсируют крупные завитки.
   components:
   - type: Sprite
     sprite: _RMC14/Structures/Xenos/hive_structures.rsi

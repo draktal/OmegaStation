@@ -1,8 +1,10 @@
+# Omega Station localisation: checkthiskd lic.
+
 - type: entity
   parent: CMBaseXenoStructure
   id: DoorXenoResin
-  name: resin door
-  description: That's a resin door.
+  name: Смоляная дверь
+  description: Это ксено дверь.
   placement:
     mode: SnapgridCenter
   components:
@@ -71,8 +73,8 @@
 - type: entity
   parent: DoorXenoResin
   id: DoorXenoResinThick
-  name: thick resin door
-  description: A thick resin door, which is more durable.
+  name: Толстая дверь из смолы
+  description: Дверь из толстой смолы, которая является более прочной.
   components:
   - type: Sprite
     sprite: _RMC14/Structures/Xenos/xeno_resin_door.rsi

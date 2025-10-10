@@ -1,8 +1,10 @@
+# Omega Station localisation: checkthiskd lic.
+
 - type: entity
   id: HiveClusterXeno
   parent: BaseHiveStructure
-  name: Hive Cluster
-  description: A large clump of gooey mass. It rhythmically pulses, as if its pumping something into the weeds below...
+  name: Скопление ульев
+  description: Большой комок клейкой массы. Он ритмично пульсирует, как будто что-то закачивает в сорняки внизу...
   components:
   - type: Sprite
     sprite: _RMC14/Structures/Xenos/hive_cluster.rsi

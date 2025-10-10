@@ -1,53 +1,57 @@
 <Document>
- # The Monument
+ # Монумент
   <Box>
     <GuideEntityEmbed Entity="MonumentCosmicCult1" Caption=""/>
     <GuideEntityEmbed Entity="MonumentCosmicCult2" Caption=""/>
     <GuideEntityEmbed Entity="MonumentCosmicCult3" Caption=""/>
   </Box>
 
-  Before you set about your goals, The Monument must be [italic][color=#4cabb3]Beckoned[/color][/italic] by your cult leader. When first built, the Monument is invisible, intangible, and effectively imperceptible to any non-cultist. Once empowered, the Monument will become both visible and tangible to all individuals aboard the station.
 
-  It is for this reason that the Monument is best hidden from prying eyes, and in a relatively defendable location.
+Прежде чем начать выполнение своих целей, Памятник должен быть [italic][color=#4cabb3]призван[/color][/italic] вашим лидером культа. Когда он впервые построен, Памятник невидим, нефизичен и практически незаметен для любого, кто не является культистом. После получения силы Памятник станет видимым и осязаемым для всех, кто находится на станции.
 
-  Entropy may be infused into the Monument to empower it. As you infuse the Monument with entropy, the cult will collectively gain access to more [color=#4cabb3][bold]Influences[/bold][/color] and [color=#4cabb3][bold]Glyphs[/bold][/color], which can be attained by interacting with the Monument.
+Поэтому лучше всего спрятать Памятник от любопытных глаз и расположить его в относительно защищенном месте.
 
-  Cultists can interact with the Monument to purchase additional [color=#4cabb3][bold]Influences[/bold][/color]. Entropy stored in the monument for the sake of purchasing is [italic]per person,[/italic] so one cultist purchasing an ability will not spend any entropy collected by other cultists.
+ВПОЛНЕНИЕ можно наполнить Памятник энтропией для его усиления. Чем больше энтропии вы внесете, тем больше [color=#4cabb3][bold]влияний[/bold][/color] и [color=#4cabb3][bold]Глифов[/bold][/color] станет доступно для взаимодействия с Памятником.
 
-  [textlink="For more on Influences, click here." link="CosmicCultInfluences"]
+Культисты могут взаимодействовать с Памятником, чтобы приобрести дополнительные [color=#4cabb3][bold]влияния[/bold][/color]. Влияние, хранящееся в Памятнике для покупки, — [italic]на одного человека[/italic], то есть один культист, приобретающий способность, не расходует энтропию, собранную другими культистами.
 
-  ## Beckoning the Unknown
-  <Box>
-    <GuideEntityEmbed Entity="PlushieCosmicCult" Caption=""/>
-  </Box>
+  [textlink="Больше о влиянии, нажми сюда" link="CosmicCultInfluences"]
 
-  Should you succeed in fully empowering the Monument to the third stage, it will hunger for one last threshold of entropy - fuel to feed the final curtain call. Once enough entropy has been infused, the empowered Monument will glow, signalling that it can now be used to [color=#4cabb3][bold]Beckon[/bold][/color] the Unknown. Any cultist may do so by interacting with the Monument.
+## Призвание Неизведанного
+<Boxes>
+  <GuideEntityEmbed Entity="PlushieCosmicCult" Caption=""/>
+</Boxes>
 
-  Once the Monument is ready to activate, cultists [bold]must[/bold] activate it in order to regain access the Monument's store and glyphs - the end [bold]cannot[/bold] be forestalled.
+Если вам удастся полностью усилить Памятник до третьей стадии, он потребует последний порог энтропии — топлива для финального акта. Когда будет внесено достаточно энтропии, усиленный Памятник засияет, сигнализируя, что его можно использовать для [color=#4cabb3][bold]Призыва[/bold][/color] Неизведанного. Любой культист может сделать это, взаимодействуя с Памятником.
 
-  Be prepared to defend the Monument during the Beckoning, as just one waylaid action from a single disruptive soul will bring this ritual to a sudden, unceremonious halt.
+Когда Памятник станет готов к активации, культисты [bold]должны[/bold] активировать его, чтобы получить доступ к магазину и глифам Памятника — финал [bold]не может[/bold] быть отменен.
 
-  Converting additional crewmembers using a [color=#4cabb3]Glyph of Truth[/color] while the Beckoning is active will accelerate its speed, bringing the cult closer to total victory.
+Будьте готовы защищать Памятник во время Призыва, так как один единственный диверсионный акт со стороны нарушителя немедленно прервет этот ритуал.
 
-  ## Glyphs
-  Glyphs may be [color=#4cabb3]Scribed[/color] by interacting with the Monument. You may also [color=#4cabb3]Unscribe[/color] an unused Glyph in a similar manner at The Monument.
+Преобразование дополнительных членов экипажа с помощью [color=#4cabb3]Глифа Истины[/color] в момент активного Призыва ускорит его, приближая культ к полной победе.
 
-  Be aware that activating a Glyph will sap the health of all cultists aiding in the Glyph's activation!
+## Глифы
+Глифы могут быть [color=#4cabb3]срисованы[/color] через взаимодействие с Памятником. Также вы можете [color=#4cabb3]соскрести[/color] неиспользованный Глиф в подобном порядке в Памятнике.
 
-  <Box>
-    <GuideEntityEmbed Entity="CosmicGlyphKnowledge" Caption=""/>
-    <GuideEntityEmbed Entity="CosmicGlyphProjection" Caption=""/>
-    <GuideEntityEmbed Entity="CosmicGlyphWarding" Caption=""/>
-  </Box>
-  <Box>
-    <GuideEntityEmbed Entity="CosmicGlyphBlades" Caption=""/>
-    <GuideEntityEmbed Entity="CosmicGlyphCessation" Caption=""/>
-    <GuideEntityEmbed Entity="CosmicGlyphTruth" Caption=""/>
-  </Box>
-  - [bold]Glyph of Knowledge[/bold] allows a non-cultist brought upon it to be [color=#4cabb3]converted[/color] into a fellow cosmic cultist! Chaplains and individuals with a mindshield cannot be converted using this glyph.
-  - [bold]Glyph of Projection[/bold] will allow the cultist using it to temporarily escape their body as a free-floating and imperceptible [color=#4cabb3]Astral Form[/color], allowing the cultist to spy on unsuspecting crewmembers.
-  - [bold]Glyph of Warding[/bold] transmutes any spacesuit - hard or soft - into the cosmic cult's special [color=#4cabb3]Entropic Armor[/color].
-  - [bold]Glyph of Blades[/bold] randomly transmutes any sharp object into one of the cosmic cult's [color=#4cabb3]Unique Weapons[/color].
-  - [bold]Glyph of Cessation[/bold] transmutes a portable atmospherics scrubber into an unanchored [color=#4cabb3]Vacuous Spire[/color].
-  - [bold]Glyph of Truth[/bold] allows any non-cultist brought upon it to be [color=#4cabb3]converted[/color] into a fellow cosmic cultist, even if they are a chaplain or protected by a mindshield.
+Обратите внимание, что активация Глифа истощит здоровье всех культистов, участвующих в его активации!
+
+<Boxes>
+  <GuideEntityEmbed Entity="CosmicGlyphKnowledge" Caption=""/>
+  <GuideEntityEmbed Entity="CosmicGlyphProjection" Caption=""/>
+  <GuideEntityEmbed Entity="CosmicGlyphWarding" Caption=""/>
+</Boxes>
+<Boxes>
+  <GuideEntityEmbed Entity="CosmicGlyphBlades" Caption=""/>
+  <GuideEntityEmbed Entity="CosmicGlyphCessation" Caption=""/>
+  <GuideEntityEmbed Entity="CosmicGlyphTruth" Caption=""/>
+</Boxes>
+
+- [bold]Глиф Знания[/bold] позволяет не-культисту, на которого он воздействует, [color=#4cabb3]превратиться[/color] в соучастника космического культа! Клирики и лица с щитком разума не могут быть превращены этим глифом.
+- [bold]Глиф Проекции[/bold] позволяет культисту, его использующему, временно покинуть свое тело и стать свободно плавающей и незаметной [color=#4cabb3]Астральной Формой[/color], что позволяет шпионить за ничего не подозревающими членами экипажа.
+- [bold]Глиф Охраны[/bold] преобразует любой космический скафандр — жесткий или мягкий — в особую [color=#4cabb3]Энтропическую броню[/color] космического культа.
+- [bold]Глиф Клинков[/bold] случайным образом превращает любой острый предмет в один из [color=#4cabb3]Уникальных оружий[/color] культа.
+- [bold]Глиф Погружения в забвение[/bold] преобразует переносной очиститель атмосферы в неподвижную [color=#4cabb3]Пустую шпору[/color].
+- [bold]Глиф Истины[/bold] позволяет любому не-культисту, подвергшемуся воздействию, [color=#4cabb3]превратиться[/color] в соучастника космического культа, даже если он клирик или защищен щитком разума.
+
+Если нужен дополнительный перевод или пояснения — пожалуйста, уточняйте!
 </Document>

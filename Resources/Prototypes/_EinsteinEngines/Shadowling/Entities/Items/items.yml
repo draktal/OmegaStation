@@ -1,9 +1,11 @@
 # Anti Thrall Item
+# Omega station localisation: checkthiskd lic.
+
 - type: entity
   parent: BaseItem
   id: AntiMindControlDevice
-  name: anti-mind control device
-  description: A special device designed for reverting mind control.
+  name: Устройство против контроля сознания
+  description: Специальное устройство, предназначенное для отмены контроля над разумом.
   components:
   - type: Sprite
     sprite: _EinsteinEngines/Shadowling/anti_mind_control.rsi
@@ -20,7 +22,7 @@
 - type: entity
   parent: ArmBladeChangeling
   id: LightEaterArmBlade
-  name: Light Eater
-  description: An arm-blade that can rip through lights and ash them in a moment's notice.
+  name: Пожиратель света
+  description: Рука-лезвие, способная в мгновение ока прорезать огни и испепелить их.
   components:
   - type: LightEater

@@ -1,7 +1,9 @@
+# Omega Station localisation: checkthiskd lic.
+
 - type: entity
   id: XenoTunnel
-  name: Tunnel
-  description: A tunnel entrance. Looks like it was dug by some kind of clawed beast.
+  name: Туннель
+  description: Вход в туннель. Похоже, что его прорыл какой-то когтистый зверь.
   placement:
     mode: SnapgridCenter
   components:
@@ -17,8 +19,8 @@
 - type: entity
   parent: XenoTunnel
   id: XenoTunnelMaint
-  name: Maintenance Hatch
-  description: An entrance to a maintenance tunnel. You can see bits of slime and resin within. Pieces of debris keep you from getting a closer look.
+  name: Технический ксено-туннель
+  description: Вход в технический ксено-туннель. Внутри вы можете увидеть кусочки слизи и смолы. Обломки не дают вам рассмотреть их поближе.
   components:
   - type: Sprite
     sprite: _RMC14/Structures/Xenos/xeno_tunnel.rsi
@@ -27,7 +29,7 @@
 - type: entity
   parent: XenoTunnelMaint
   id: XenoTunnelMaintNoXenoDesc
-  description: An entrance to a maintenance tunnel. Pieces of debris keep you from getting a closer look.
+  description: Вход в технический ксено-туннель. Внутри вы можете увидеть кусочки слизи и смолы. Обломки не дают вам рассмотреть их поближе.
 
 - type: entity
   parent: XenoTunnelMaint

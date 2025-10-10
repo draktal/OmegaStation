@@ -1,8 +1,7 @@
-Welcome to Space Station 14! You have just started your shift aboard a Nanotrasen space station and along with your crewmates should cooperate, perform your job role to the best of your ability and have fun (not at the expense of others hopefully).
+Добро пожаловать на космическую станцию 14! Вы только начали свою смену на борту космической станции Nanotrasen и должны сотрудничать со своими товарищами по экипажу, выполнять свою работу в меру своих возможностей и получать удовольствие (надеюсь, не за счет других).
 
-Please make sure you understand the server rules (F1) and if you have any questions, consult this guide, your colleagues on shift in person or over radio or via discord. You can also ask admins for help (ahelp) by hitting the escape key > admin help and typing a message to any online admins. Especially do this if you witness someone breaking rules.
+Пожалуйста, убедитесь, что вы понимаете правила сервера (F10), и если у вас возникнут какие-либо вопросы, обратитесь к этому руководству, к своим коллегам по смене лично, в рацию или через discord. Вы также можете обратиться за помощью к администраторам (ahelp), нажав клавишу f1 и отправив сообщение любому онлайн-администратору. Особенно это важно, если вы видите, что кто-то нарушает правила.
 
-To reiterate, you are all a crew of people who work together (even the clown) and you should not be harming each other unless you have an extremely good reason (self defence) and even then, call security over radio, stun and detain, do not commit murder as a non antagonist (see antagonist further down).
+Повторяю, вы все - команда людей, которые работают вместе (даже клоун), и вы не должны причинять вред друг другу, если у вас нет на то веской причины (самооборона), и даже в этом случае вызывайте охрану по радио, оглушайте и задерживайте, не совершайте убийства, не будучи противником (см. антагонист ниже).
 
-
-Instead of intents, we have combat mode. Check controls below for its keybind. You can't attack anybody with it off, so no more hitting yourself with your own crowbar.
+Вместо режима "намерения" у нас есть режим "бой". Проверьте, как он связан с клавишами, приведенными ниже. Вы не сможете ни на кого напасть, если он выключен, так что больше не бейте себя собственным ломом.

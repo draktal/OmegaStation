@@ -1,3 +1,5 @@
+# Omega Station localisation: checkthiskd lic.
+
 - type: entity
   parent: BaseStructure
   id: CMBaseXenoStructure
@@ -18,7 +20,7 @@
   - BaseWall
   - CMBaseXenoStructure
   id: BaseWallXeno
-  name: resin wall
+  name: Смоляная стена
   abstract: true
   placement:
     mode: SnapgridCenter
@@ -38,8 +40,8 @@
 - type: entity
   parent: BaseWallXeno
   id: WallXenoResin
-  name: resin wall
-  description: Weird slime solidified into a wall.
+  name: Смоляная стена
+  description: Странная слизь превратилась в стену.
   components:
   - type: Sprite
     sprite: _RMC14/Structures/Xenos/xeno_resin_wall.rsi
@@ -84,7 +86,7 @@
 - type: entity
   parent: BaseWallXeno
   id: BaseMembraneXeno
-  name: resin membrane
+  name: Смоляная мембрана
   abstract: true
   components:
   - type: Destructible
@@ -114,8 +116,8 @@
 - type: entity
   parent: BaseMembraneXeno
   id: WallXenoMembrane
-  name: resin membrane
-  description: Weird slime translucent enough to let light pass through.
+  name: Смоляная мембрана
+  description: Странная слизь, достаточно прозрачная, чтобы пропускать свет.
   components:
   - type: Sprite
     sprite: _RMC14/Structures/Xenos/xeno_resin_wall.rsi
@@ -137,8 +139,8 @@
 - type: entity
   parent: BaseMembraneXeno
   id: WallXenoMembraneThick
-  name: thick resin membrane
-  description: Weird thick slime just translucent enough to let light pass through.
+  name: Толстая полимерная мембрана из смолы
+  description: Странная густая слизь, достаточно прозрачная, чтобы пропускать свет.
   components:
   - type: Sprite
     sprite: _RMC14/Structures/Xenos/xeno_resin_wall.rsi

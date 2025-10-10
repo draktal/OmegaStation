@@ -1,7 +1,9 @@
+# Omega Station localisation: checkthiskd lic.
+
 - type: entity
   id: XenoNest
-  name: alien nest
-  description: It's a gruesome pile of thick, sticky resin shaped like a nest.
+  name: Гнездо пришельцев
+  description: Это отвратительная куча густой, липкой смолы в форме гнезда.
   placement:
     mode: SnapgridCenter
     snap:

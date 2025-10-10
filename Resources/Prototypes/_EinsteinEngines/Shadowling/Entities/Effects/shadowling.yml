@@ -1,6 +1,8 @@
+# Omega station localisation: checkthiskd lic.
+
 - type: entity
   id: ShadowlingGlareEffect
-  name: shadowling glare effect
+  name: Эффект бликов Тенеморфа
   components:
   - type: TimedDespawn
     lifetime: 0.35
@@ -21,7 +23,7 @@
 
 - type: entity
   id: ShadowlingShadowWalkInEffect
-  name: shadowling shadow walk in effect
+  name: Эффект ходьбы Тенеморфа
   components:
   - type: TimedDespawn
     lifetime: 0.5
@@ -40,7 +42,7 @@
 
 - type: entity
   id: ShadowlingShadowWalkOutEffect
-  name: shadowling shadow walk out effect
+  name: Эффект выхода Тенеморфа
   components:
   - type: TimedDespawn
     lifetime: 0.5
@@ -59,7 +61,7 @@
 
 - type: entity
   id: ShadowlingCollectiveMindEffect
-  name: shadowling collective mind effect
+  name: Эффект коллективного разума Тенеморфа
   components:
   - type: TimedDespawn
     lifetime: 0.35
@@ -80,7 +82,7 @@
 
 - type: entity
   id: ShadowlingRapidRehatchEffect
-  name: shadowling rapid rehatch effect
+  name: Эффект быстрого перерождения Тенеморфа
   components:
   - type: TimedDespawn
     lifetime: 0.85
@@ -101,7 +103,7 @@
 
 - type: entity
   id: ShadowlingIcyVeinsEffect
-  name: shadowling icy veins effect
+  name: Эффект ледяных вен, отбрасывающих тени
   components:
   - type: TimedDespawn
     lifetime: 0.85
@@ -122,7 +124,7 @@
 
 - type: entity
   id: ShadowlingNullChargeEffect
-  name: shadowling null charge effect
+  name: Эффект нулевого заряда Тенеморфа
   components:
   - type: TimedDespawn
     lifetime: 0.85
@@ -143,7 +145,7 @@
 
 - type: entity
   id: ShadowlingSonicScreechEffect
-  name: shadowling sonic screech effect
+  name: Эффект звукового визга Тенеморфа
   components:
   - type: TimedDespawn
     lifetime: 1.2
@@ -165,7 +167,7 @@
 
 - type: entity
   id: ShadowlingBlackRecuperationEffect # plays on Thralls
-  name: shadowling black recuperation effect
+  name: Эффект восстановления черного цвета Тенеморфа
   components:
   - type: TimedDespawn
     lifetime: 0.85
@@ -186,7 +188,7 @@
 
 - type: entity
   id: ShadowlingAscendingEffect
-  name: shadowling ascending effect
+  name: Эффект восходящего Тенеморфа
   components:
   - type: TimedDespawn
     lifetime: 8.02

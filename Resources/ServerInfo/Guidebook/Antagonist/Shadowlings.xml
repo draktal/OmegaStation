@@ -1,131 +1,119 @@
 <Document>
-  # Shadowlings
+  # Тенеморф
   <Box>
     <GuideEntityEmbed Entity="GuidebookShadowling" Caption=""/>
   </Box>
-  They aren't gods. But they want to become one...
-  These enigmatic aliens have baffled even the most advanced research divisions.
+  Они не боги. Но они хотят стать ими...
+  Эти загадочные инопланетяне поставили в тупик даже самые передовые исследовательские подразделения.
 
-  Shadowlings are light-sensitive xenoform alien creatures that come from space.
-  Primarily [bold]defensive in nature[/bold], they possess the ability to [bold]enthrall[/bold] crew members, taking full control of their minds and loyalty.
+  Тенеморфы - это чувствительные к свету ксеноформные инопланетные существа, прилетевшие из космоса.
 
-  Shadowlings starts off disguised as a normal crew member.
-  After they awake, they must 'hatch' to unlock their powers.
+В основном [bold]защищённый в натуралье[/bold], они обладают способностью [bold]очаровывать[/bold] членов экипажа, полностью захватывая их умы и лояльность.
 
-  When hatched, shadowlings will resemble humans with black skin, small horns, red eyes, and claws.
+Тенеморф начинает под маскировкой обычного члена экипажа.
+После пробуждения им нужно «вылупиться», чтобы разблокировать свои способности.
 
-  Shadowlings are clumsy with guns, and cannot wear clothes of any kind. Despite that, they can still equip headsets and wear backpacks.
+Когда вылупятся, тенеморфы будут похожи на человека с черной кожей, маленькими рогами, красными глазами и когтями.
 
-  As a side-note, Shadowlings are not obliged to work together. While cooperation may help, going solo is a valid play-style.
+Тенеморфы плохо обращаются с оружием и не могут носить одежду любого вида. Несмотря на это, они всё же могут носить наушники и рюкзаки.
 
-  ## What do I do as a Shadowling?
+Кстати, Тенеморфы не обязаны работать вместе. Хотя сотрудничество может помочь, играть в одиночку — тоже допустимый стиль.
 
-  As a shadowling, your main objective is to [color=#d22b2b]ascend[/color].
+## Что я делаю как тенеморф?
 
-  In order to ascend, you'll have to:
-  - 1. Gather 20 Thralls.
-  - 2. Form your Ascension Egg using your "Ascendance" ability.
-  - 3. Enter the egg and begin the ascension ritual
+Как тенеморф, ваша главная цель — [color=#d22b2b]возвыситься[/color].
 
-  You are vulnerable to light and will take damage while exposed. However, [bold]you heal in the shadows[/bold], so use darkness to your advantage.
+Чтобы возвыситься, вам нужно:
+- 1. Собрать 20 слуг.
+- 2. Создать свое яйцо для восхождения с помощью умения "Возвышение".
+- 3. Войти в яйцо и начать ритуал восхождения.
 
-  Initially, you start with +50% resistance from light, but the more crew you enthrall, the less the resistance becomes.
-  It can go up to -50%! That's a lot of damage you'll be taking...
+Вы уязвимы к свету и будете получать урон, если будете подвержены ему. Однако, [bold]вы лечитесь в тенях[/bold], поэтому пользуйтесь темнотой в своих интересах.
 
-  Choose your Thralls wisely.
+Изначально у вас +50% сопротивления свету, но чем больше слуг вы захватываете, тем меньше его сопротивление. Оно может снизиться до -50%! Это означает, что вы будете получать намного больше урона...
 
-  ## I'm a thrall, what is my purpose?
+Выбирайте своих Слуг с умом.
 
-  You're similar to a revolutionary, but with time and obedience, you can become something far more powerful.
+## Я Слуга, какая у меня роль?
 
-  As a thrall, your main purpose is to listen to your shadowling, the one that converted you.
-  If your shadowling demands that you suicide, you must suicide. It doesn't matter if you're a Wizard or a Nukie.
+Вы похожи на революционера, но со временем и послушанием можете стать чем-то намного более мощным.
 
-  You also have a few abilities at your disposal, like Guise and Thrall Darksight.
+Как слуга, ваша основная задача — слушаться вашего тенеморфа, того, кто вас покорил.
+Если ваш тенеморф потребует, чтобы вы покончили с собой, вы должны это сделать. Неважно, волшебник вы или ядерщик.
 
-  - Guise: Grants temporary invisibility when used in the dark.
+У вас есть несколько способностей, таких как облик и ночное видение.
 
-  - Thrall Darksight: Grants night vision, allowing you to see in complete darkness.
+- Облик (Guise): даёт временную невидимость при использовании в темноте.
+- Ночное видение (Thrall Darksight): даёт ночное зрение, позволяя видеть в полной темноте.
 
-  The more obedient and useful you are, the more valuable you become to your Shadowling.
+Чем более послушны и полезны вы для тенеморфа, тем ценнее вы для него.
 
-  ## What can I do as crew to fight against the shadowlings?
+## Что я могу сделать как экипаж, чтобы бороться с тенеморфами?
 
-  A shadowling is a threat that should be taken care of early in the shift.
+Тенеморф — это угроза, которую следует устранять как можно раньше за смену.
 
-  - Never patrol maintenance alone. Stick to groups.
-  - Security should stay armed and alert.
+- Никогда не патрулируйте станцию в одиночку. Держитесь в группах.
+- Служба безопасности должна оставаться вооружённой и бдительной.
 
-  Nanotrasen has also issued the Station with a special device that essentially took several decades of researching this
-  strange alien species and its effects on living beings.
+Nanotrasen также выдала станции специальное устройство, которое представляет собой результат многовековых исследований этой странной инопланетной расы и её воздействия на живых существ.
 
-  The [bold]anti-mind control device[/bold] can remove any mind control from any person, and apply further resistance to the Thrall
-  that is to be deconverted.
+[bold]Анти-подчинительное устройство[/bold] может снимать любой контроль ума с любого человека и повышать сопротивление Слуг, подверженных деконвертации.
 
-  It exists in Tier 2 research through the prolathe and it has the same materials as a Flash, but with Lead required.
+Оно доступно на уровне 2 в исследовательской через станок prolathe и использует такие же материалы, как и Флэш, но требуется свинец.
 
-  Don't forget that it has only [bold]5 charges[/bold] per device.
+Не забывайте, что у каждого устройства всего [bold]5 зарядов[/bold].
 
-  Other than that, note that Lesser Shadowlings are not affected from it. Their mind is lost, and sadly unrecovable.
+Также стоит учитывать, что Младшие порождения Тенеморфов к нему не уязвимы — их умы потеряны, и их уже нельзя вернуть.
 
-  Additional Countemeasures:
-  - Mindshield implants offer temporary protection, though Shadowlings will gain abilities to bypass them.
+Дополнительные меры:
+- Импланты Майндшилд обеспечивают временную защиту, хотя Тенеморфы могут научиться обходить их.
 
-  In case of a shadowling starting an ascension, all available crew should arm themselves and rush to destroy the ascension egg before the process completes.
-  Succeed, and you live. Fail... and witness a god!
+Если началось восхождение тенеморфа, весь экипаж должен вооружиться и срочно уничтожить яйцо восхождения до завершения процесса.
+Если успеете — выживете. Не успели — станете свидетелем бога!
 
-  ## How do I ascend?
+## Как возвыситься?
 
-  Once you have 20 thralls, use your "Ascendance" ability to place your ascension egg.
-  Right-click the egg and select "Start Ascension".
+Когда у вас есть 5 Слуг, используйте умение "Возвышение" для размещения своего яйца восхождения.
+Щёлкните правой кнопкой по яйцу и выберите "Начать Возвышение".
 
-  You will be immobile and vulnerable for 5 minutes during the process.
+Во время этого процесса вы будете неподвижны и уязвимы 5 минут.
 
-  If the egg is destroyed, you become an Abomination. That means:
-    - No powers
-    - Extremely slow movement
-    - Practically useless
+Если яйцо будет уничтожено — вы станете Мерзостью. Это значит:
+- Нет способностей
+- Очень медленное движение
+- Практически бесполезны
 
-  Protect your egg at all costs. Failure means humiliation.
+Защитите своё яйцо любой ценой. Неуспех — это позор.
 
-  ## What happens if a Shadowling ascends...
+## Что происходит, если тенеморф поднимается...
 
-  If a shadowling ascends, there's still a chance to win by killing the shadowling. However, it has a good amount
-  of health and very strong abilities.
+Если тенеморф поднимается, всё ещё есть шанс выиграть, убив его. Однако у него много здоровья и очень мощные способности.
 
-  Once an ascension completes, all shadowlings will ascend at a moment's notice and Thralls will be turned into Nightmares.
+После завершения восхождения все тенеморфы поднимутся мгновенно, а Слуги превратятся в Кошмары.
 
-  Nightmares have arm-blades that can ash lights, and they can phase through walls without a care in the world!
+Кошмары вооружены клинками на руках, которые могут превращать свет в пепел, и могут проходить через стены без ограничений!
 
-  Nightmares also reflect bullets when in the dark.
+Также Кошмары отражают пули в темноте.
 
-  ## What is a Lesser Shadowling?
+## Что такое Младшее порождение тьмы?
 
-  A lesser shadowling is a thrall who got converted by the Black Recuperation ability.
-  Lesser Shadowlings can not be deconverted by the anti-mind control device.
+Младшее порождение тьмы — это слуги, которых преобразовали с помощью умения Black Recuperation.
+Младшее порождение тьмы не могут быть деконвертированы с помощью анти-control устройства.
 
-  However, they do take damage from lights, similarly to a Shadowling. Much slower, though.
+Однако они получают урон от света, как и Тенеморфы, хоть и медленнее.
 
-  You can have up to 5 of them, so choose them carefully. Quality over quantity.
+У вас может быть до 2 таких младших порождений тьмы, выбирайте их с умом — качество важнее количества.
 
-  ## Tips and more info
+## Советы и дополнительная информация
 
-  - As a shadowling, you can identify your thralls by examining them.
+- Как тенеморф, вы можете определить своих слуг, обследуя их.
+- Хотя все тенеморфы восходят после одного восхождения, побеждать легче, если есть конкуренция. Будьте единственным восходящим или умрите, пытаясь!
+- Умение Коллективный Разум парализует ваших Слуг при получении новых способностей, а также показывает, сколько Слуг нужно для восхождения.
+- Посмотрите на себя — насколько сильно у вас сопротивление свету.
+- Черное восстановление сил уменьшает ваше сопротивление свету при использовании, будьте осторожны.
+- Как экипаж, вы не обязаны сжигать или размозжить тенеморфа — при смерти он теряет всех Слуг.
+- [bold]Это скрытный антагонист[/bold], не стоит пытаться с ним бороться открыто. Лучше играйте в оборону и очаровывайте людей.
 
-  - Even though other shadowlings will ascend once one ascends, it may be more fun to have
-  competition. Be the only ascendant, or die trying...
-
-  - Your Collective Mind ability paralyzes your Thralls once you gain a new power. However, it also
-  informs you on how many thralls you need to ascend.
-
-  - Examine yourself to see how much light resistance you have.
-
-  - Black Recuperation decreases your light resistance per use, so be careful when you use it.
-
-  - As crew, you do not have to ash or gib a shadowling. They lose all thralls at death.
-
-  - [bold]This is a stealth antagonist[/bold], do not try to fight people as a shadowling. Instead, play defensive and enthrall people.
-
-  [bold][color=#000000]Become the darkness.[/color] [color=#702963]Embrace the void.[/color] [color=#D2042D]Ascend.[/color][/bold]
+[bold][color=#000000]Стань тьмой.[/color] [color=#702963]Обнимай пустоту.[/color] [color=#D2042D]Возвышайся.[/color][/bold]
 
 </Document>

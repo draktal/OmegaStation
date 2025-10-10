@@ -1,18 +1,18 @@
-shadowling-on-try-equip-clothes = This is fruitless to you...
+shadowling-on-try-equip-clothes = Это бесполезно для вас...
 
-reagent-name-shadowling-toxin = shadowling toxin
-reagent-desc-shadowling-toxin = A mysterious chemical that makes heals any shadowling and their thralls, but blinds anyone else
+reagent-name-shadowling-toxin = Токсин Тенеморфа
+reagent-desc-shadowling-toxin = Таинственный химикат, который исцеляет любого Тенеморфа и его слугов, но ослепляет всех остальных.
 
-alerts-shadowling-light-name = Light Identifier
-alerts-shadowling-light-desc = This is your light identifier. If it reaches 0, you start taking damage. Prioritize standing in the shadows.
+alerts-shadowling-light-name = Световой идентификатор
+alerts-shadowling-light-desc = Это ваш идентификатор света. Если он достигает 0, вы начинаете получать урон. Старайтесь оставаться в тени.
 
-chat-manager-shadowling-channel-name = Shadowmind
+chat-manager-shadowling-channel-name = Теневой разум
 
-shadowling-dead = You strangely regain your mind.
+shadowling-dead = К вам странным образом возвращается рассудок.
 
-shadowling-thrall-examined = This is your Thrall.
+shadowling-thrall-examined = Это твой слуга.
 
-guide-entry-shadowlings = Shadowlings
+guide-entry-shadowlings = Тенеморфы
 
 reagent-effect-guidebook-blind-non-sling =
     { $chance ->
@@ -26,19 +26,19 @@ reagent-effect-guidebook-heal-sling =
         *[other] heal any
     } shadowling and thrall
 
-marking-LesserShadowlingEyes = Lesser Shadowling Eyes
-marking-AbominationHorns = Abomination Horns
-marking-AbominationTorso = Abomination Torso
+marking-LesserShadowlingEyes = Малые Глаза Тенеморфы
+marking-AbominationHorns = Рога мерзости
+marking-AbominationTorso = Мерзкий торс
 
-admin-verb-make-shadowling = Make the target into a shadowling.
-admin-verb-text-make-shadowling = Make Shadowling
+admin-verb-make-shadowling = Превратите цель в Тенеморфа.
+admin-verb-text-make-shadowling = Создайте Тенеморфа
 
-species-name-shadowling = Shadowling
-species-name-shadow = Shadow
+species-name-shadowling = Тенеморф
+species-name-shadow = Тень
 
 # Examine Texts
-shadowling-examine-self = [color=#D22B2B]You take {$damage} burn damage from light[/color]
+shadowling-examine-self = [color=#D22B2B]Ты получил {$damage} ожоги от света[/color]
 
 # UI
-asc-broadcast-title = Ascendant Broadcast
-asc-broadcast-prompt = Message
+asc-broadcast-title = Восходящая трансляция
+asc-broadcast-prompt = Сообщение

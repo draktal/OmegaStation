@@ -1,6 +1,6 @@
 - type: entity
   id: GuidebookShadowling
-  name: guidebook shadowling
+  name: Руководство по Тенеморфу
   description: what
   categories: [ HideSpawnMenu ]
   components:

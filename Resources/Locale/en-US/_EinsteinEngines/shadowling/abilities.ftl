@@ -1,42 +1,42 @@
-shadowling-enthrall-non-humanoid = It is not what you're looking for...
-shadowling-enthrall-mindshield = They can defy your powers!
-shadowling-enthrall-already-thrall = They are already your thrall!
-shadowling-enthrall-cant-be-controlled = It's mind cannot be controlled...
-shadowling-enthrall-no-mind = It's just an empty vessel...
-shadowling-enthrall-shadowling = You can not enthrall your own kind!
-shadowling-enthrall-psionic-insulated = Their essence burns with power beyond your control!
-shadowling-enthrall-dead = You need them alive!
+shadowling-enthrall-non-humanoid = Это не то, что ты ищешь...  
+shadowling-enthrall-mindshield = Они могут сопротивляться твоим силам!  
+shadowling-enthrall-already-thrall = Они уже твои послушники!  
+shadowling-enthrall-cant-be-controlled = Их разум нельзя контролировать...  
+shadowling-enthrall-no-mind = Это всего лишь пустая оболочка...  
+shadowling-enthrall-shadowling = Ты не можешь порабощать своих!  
+shadowling-enthrall-psionic-insulated = Их сущность пылает силой вне твоего контроля!  
+shadowling-enthrall-dead = Они должны быть живы!  
 
-shadowling-target-being-thralled = A dark presence grips your mind...!
+shadowling-target-being-thralled = Тёмное присутствие охватывает твой разум...!  
 
-shadowling-glare-target = Your body seizes as an otherworldly glare bears down on you.
+shadowling-glare-target = Твоё тело сковывает потусторонний взгляд.  
 
-shadowling-shadow-walk-activate = I vanish between the breaths of light.
+shadowling-shadow-walk-activate = Я исчезаю между вспышками света.  
 
-shadowling-icy-veins-activated = An unnatural chill grips your limbs...
+shadowling-icy-veins-activated = Неестественный холод охватывает твои конечности...  
 
-shadowling-rapid-rehatch-complete = The husk shudders, and from it, you are reborn unscathed.
+shadowling-rapid-rehatch-complete = Оболочка дрожит, и ты возрождаешься невредимым.  
 
-shadowling-destroy-engines-used = The shuttle has already been delayed by someone else.
-shadowling-destroy-engines-arrived = Your powers make you unable to destroy the engines!
-shadowling-destroy-engines-not-called = The shuttle has not been called yet.
+shadowling-destroy-engines-used = Транспорт уже был задержан кем-то другим.  
+shadowling-destroy-engines-arrived = Твои силы не позволяют уничтожить двигатели!  
+shadowling-destroy-engines-not-called = Транспорт ещё не вызван.  
 
-shadowling-collective-mind-success = You feel stronger than before! You need {$thralls} Thralls to achieve your true form!
-shadowling-collective-mind-failure = You don't feel anything. You need {$thralls} Thralls to achieve your true form.
-shadowling-collective-mind-ascend = You have gained all the powers... Now, to ascend!
+shadowling-collective-mind-success = Ты чувствуешь себя сильнее! Тебе нужно {$thralls} слуг, чтобы обрести истинную форму!  
+shadowling-collective-mind-failure = Ты ничего не чувствуешь. Тебе нужно {$thralls} слуг, чтобы обрести истинную форму.  
+shadowling-collective-mind-ascend = Ты получил все силы... Теперь время взойти!  
 
-shadowling-sonic-screech-complete = The air splits with your cry.
+shadowling-sonic-screech-complete = Воздух разрывается твоим криком.  
 
-shadowling-null-charge-success = Your impact echoes through the wires as power yields to void.
-shadowling-null-charge-start = You begin to charge your fist with a nullifying force.
+shadowling-null-charge-success = Твой удар отзывается в проводах, когда сила уступает пустоте.  
+shadowling-null-charge-start = Ты начинаешь заряжать кулак разрушительной силой.  
 
-shadowling-black-rec-lesser-already = The target is already a Lesser Shadowling.
-shadowling-black-rec-revive-done = Darkness pulls you back from the brink.
-shadowling-black-rec-lesser-done = You feel like even stronger than before.
-shadowling-black-rec-limit = You have reached your limit. You can not empower any more Thralls!
+shadowling-black-rec-lesser-already = Цель уже является Малым Тенеморфом.  
+shadowling-black-rec-revive-done = Тьма возвратила тебя с края пропасти.  
+shadowling-black-rec-lesser-done = Ты чувствуешь себя сильнее, чем раньше.  
+shadowling-black-rec-limit = Ты достиг предела. Больше усилить слуг нельзя!  
 
-shadowling-ascendant-broadcast-dialog = Your message has been sent to everyone.
+shadowling-ascendant-broadcast-dialog = Твоё сообщение отправлено всем.  
 
-shadowling-nox-imperii-done = No longer prey to the light, you stride where your ancestors withered.
+shadowling-nox-imperii-done = Больше ты не добыча света, ты идёшь там, где погибли твои предки.  
 
-shadowling-ascendance-fail = You cannot build your cocoon in this tile.
+shadowling-ascendance-fail = Ты не можешь построить кокон на этом участке.  

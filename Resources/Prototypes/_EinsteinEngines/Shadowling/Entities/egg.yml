@@ -1,7 +1,9 @@
+# Omega station localisation: checkthiskd lic.
+
 - type: entity
   id: SlingEgg
-  name: Shadowling Egg
-  description: An irregular lump of organic matter, its cracked surface twitching now and then. # yes
+  name: Яйцо Тенеморфа
+  description: Неправильно сформированный комок органического вещества, его потрескавшаяся поверхность время от времени подергивается. # yes
   components:
   - type: Transform
     noRot: true
@@ -51,7 +53,7 @@
 - type: entity
   parent: SlingEgg
   id: SlingEggAscension
-  description: A dark, armored cocoon pulsing with eerie energy, heralding the shadowling’s ascension.
+  description: Темный бронированный кокон, пульсирующий жуткой энергией, возвещает о вознесении Тенеморфа.
   components:
   - type: Sprite
     noRot: true
@@ -100,8 +102,8 @@
 
 - type: entity
   id: AscensionEggShadowlingInside
-  name: The Shadowling
-  description: A terryfing creature that appears to have formed on top of the egg. Is it alive?
+  name: Тенеморф
+  description: Ужасное существо, которое, похоже, образовалось на верхушке яйца. Оно живое?
   components:
   - type: Transform
     noRot: true

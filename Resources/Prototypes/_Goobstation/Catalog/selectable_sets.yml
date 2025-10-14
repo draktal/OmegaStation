@@ -146,27 +146,27 @@
   - StealthBox
   - SyndicateJawsOfLife
 
-- type: selectableSet
-  id: SyndicateHitmanSet
-  name: selectable-set-syndicate-hitman-name
-  description: selectable-set-syndicate-hitman-description
-  sprite:
-    sprite: Objects/Weapons/Guns/Pistols/cobra.rsi
-    state: icon
-  content:
-  - EncryptionKeySyndie
-  - WeaponPistolCobra
-  - MagazinePistolCaselessRifle
-  - MagazinePistolCaselessRifle
-  - MagazinePistolCaselessRifle
-  - CQCManual
-  - ClothingOuterArmourInvisibleSyndie
-  - ClothingShoesBootsJack
-  - CigPackSyndicate
-  - MedkitCombatFilled
-  - ClothingEyesGlassesSunglasses
-  - ClothingUniformJumpsuitDetectiveGrey
-  - ClothingHandsGlovesCombat
+#- type: selectableSet
+ # id: SyndicateHitmanSet
+  #name: selectable-set-syndicate-hitman-name
+  #description: selectable-set-syndicate-hitman-description
+  #sprite:
+   # sprite: Objects/Weapons/Guns/Pistols/cobra.rsi
+   # state: icon
+  #content:
+  #- EncryptionKeySyndie
+  #- WeaponPistolCobra
+  #- MagazinePistolCaselessRifle
+  #- MagazinePistolCaselessRifle
+  #- MagazinePistolCaselessRifle
+  #- CQCManual
+  #- ClothingOuterArmourInvisibleSyndie
+  #- ClothingShoesBootsJack
+  #- CigPackSyndicate
+ # - MedkitCombatFilled
+ # - ClothingEyesGlassesSunglasses
+ # - ClothingUniformJumpsuitDetectiveGrey
+  #- ClothingHandsGlovesCombat
 
 - type: selectableSet
   id: SyndicateImplantsSet

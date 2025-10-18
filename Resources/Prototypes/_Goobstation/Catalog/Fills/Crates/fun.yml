@@ -5,6 +5,7 @@
 # SPDX-FileCopyrightText: 2025 fishbait <gnesse@gmail.com>
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
+# Omega station localisation: checkthiskd lic.
 
 - type: entity
   id: CrateFunATV
@@ -69,8 +70,8 @@
 
 - type: entity
   id: CrateWizardAnomCore
-  name: Crate of Enchanting
-  description: A box containing stolen anomaly cores, used for enchanting.
+  name: Ящик чар
+  description: Ящик с украденными ядрами аномалий, используемыми для зачарования.
   parent: CratePirate
   components:
   #ONLY contains anomalies with enchantcomp.

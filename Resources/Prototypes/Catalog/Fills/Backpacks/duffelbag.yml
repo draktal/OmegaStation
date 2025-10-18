@@ -204,8 +204,8 @@
 - type: entity
   parent: ClothingBackpackDuffelSyndicateBundle
   id: ClothingBackpackDuffelSyndicateFilledRifle
-  name: Estoc bundle # goob
-  description: "For medium-range sharpshooting, the Estoc. Bundled with three magazines." # goob
+  name: Рюкзак с Эстоком # goob
+  description: "Для меткой стрельбы на средних дистанциях — Эсток. В комплекте три магазина." # goob
   components:
   - type: StorageFill
     contents:

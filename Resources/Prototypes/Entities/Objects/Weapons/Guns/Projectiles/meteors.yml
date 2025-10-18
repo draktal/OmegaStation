@@ -17,6 +17,7 @@
 # SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
+# Omega station localisation: checkthiskd lic.
 
 - type: entity
   id: BaseMeteor
@@ -256,8 +257,8 @@
 - type: entity
   parent: BaseMeteor
   id: MeteorCow
-  name: Cosmic cow
-  description: Moo-ving at relativistic speeds!
+  name: Космическая корова
+  description: Мычание на релятивистских скоростях!
   suffix: Meteor
   components:
   - type: Sprite
@@ -298,8 +299,8 @@
 - type: entity
   parent: BaseMeteor
   id: MeteorClown
-  name: Honksteroid
-  description: The final honkening!
+  name: Хонкстероид
+  description: Финальный гудок!
   suffix: Meteor
   components:
   - type: Sprite
@@ -343,8 +344,8 @@
 - type: entity
   parent: BaseMeteor
   id: MeteorPotato
-  name: Space potato
-  description: A starchy threat from the depths of the space. Contains 200% of your daily sodium intake!
+  name: Космическая картошка
+  description: Крахмальная угроза из глубин космоса. Содержит 200% от суточной нормы натрия!
   components:
   - type: Sprite
     state: potato

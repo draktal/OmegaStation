@@ -102,6 +102,7 @@
 # SPDX-FileCopyrightText: 2025 Solstice <solsticeofthewinter@gmail.com>
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
+# Omega Station localisation: checkthiskd lic.
 
 - type: entity
   parent: BaseSign
@@ -717,8 +718,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandExoAcid
-  name: "Exomorph Warning: Acid Spit!"
-  description: "This poster warns you about an exomorph's acidic spit. Not that such exomorphs are real... Right?"
+  name: "Предупреждение Экзоморфов: плевок кислотой!"
+  description: "Этот плакат предупреждает вас о кислотной слюне экзоморфа. Хотя, конечно, такие экзоморфы не существуют... Правда?"
   components:
   - type: Sprite
     state: poster64_contraband
@@ -726,8 +727,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandExoRun
-  name: "Exomorph Warning: Run Away!"
-  description: "This poster warns you about an athletic exomorph capable of dragging away anyone who gets caught; so don't get caught!"
+  name: "Предупреждение Экзоморфов: бегите!"
+  description: "Этот плакат предупреждает вас об атлетичном экзоморфе, способном утащить любого, кого поймают. Так что не попадитесь!"
   components:
   - type: Sprite
     state: poster65_contraband
@@ -735,8 +736,8 @@
 - type: entity
   parent: PosterBase
   id: PosterContrabandExoChomp
-  name: "Exomorph Warning: Dangerous Bites!"
-  description: "This poster warns you about the lethal bites exomorphs can have. Don't become an alien snack!"
+  name: "Предупреждение Экзоморфов: Опасные укусы!"
+  description: "Этот плакат предупреждает вас о смертельных укусах экзоморфов. Не становитесь закуской для инопланетян!"
   components:
   - type: Sprite
     state: poster66_contraband

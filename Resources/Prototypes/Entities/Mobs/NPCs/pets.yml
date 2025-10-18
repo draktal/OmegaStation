@@ -1171,10 +1171,10 @@
     - TauCetiBasic
 
 - type: entity
-  name: Polly the parrot
+  name: Попугай Полли
   parent: MobParrotBase
   id: MobPollyParrot
-  description: An expert in quantum cracker theory
+  description: Эксперт в теории квантового крэкера
   components:
   - type: Vocalizer
     maxVocalizeInterval: 240 # polly is chattier

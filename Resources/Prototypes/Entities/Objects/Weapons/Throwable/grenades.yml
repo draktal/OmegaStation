@@ -123,6 +123,7 @@
 # SPDX-FileCopyrightText: 2025 pheenty <fedorlukin2006@gmail.com>
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
+# Omega Station localisation: checkthiskd lic.
 
 - type: entity
   abstract: true
@@ -618,8 +619,8 @@
 - type: entity
   parent: [ BaseEngineeringContraband, GrenadeBase ] # Prevent inheriting DeleteOnTrigger from SmokeGrenade
   id: AirGrenade
-  name: air grenade
-  description: A special solid state chemical grenade used for quickly releasing standard air into a spaced area. Fills up to 30 tiles!
+  name: Воздушная граната
+  description: Специальная твердотельная химическая граната, используемая для быстрого выпуска воздуха в определённое пространство. Заполняет до 30 плиток!
   components:
   - type: Sprite
     sprite: Objects/Weapons/Grenades/airboom.rsi

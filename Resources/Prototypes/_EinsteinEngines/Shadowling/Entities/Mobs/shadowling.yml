@@ -91,9 +91,9 @@
 - type: entity
   parent: [BaseMobShadowlingAscendant]
   id: BaseMobShadowlingAscendantAdminSpawn
-  name: shadowling ascendant
+  name: Восходящий тенеморф
   suffix: ""
-  description: A shadowling ascendant. If you're seeing this, you're probably dead.
+  description: Восходящий тенеморф. Если вы это видите, вы, вероятно, мертвы.
   components:
   - type: ShadowlingVeil
   - type: ShadowlingIcyVeins

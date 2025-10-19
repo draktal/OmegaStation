@@ -104,6 +104,7 @@
 # SPDX-FileCopyrightText: 2025 War Pigeon <54217755+minus1over12@users.noreply.github.com>
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
+# Omega station localisation: checkthiskd lic.
 
 - type: entity
   parent: BaseSign
@@ -443,8 +444,8 @@
 - type: entity
   parent: BaseSign
   id: SignBath
-  name: bathroom sign
-  description: A sign indicating the bathroom.
+  name: Знак ванной
+  description: Знак, указывающий на ванную комнату.
   components:
   - type: Sprite
     state: bath
@@ -803,8 +804,8 @@
 - type: entity
   parent: BaseSign
   id: SignGenpop
-  name: genpop sign
-  description: A sign indicating the genpop prison.
+  name: Знак генпопа
+  description: Знак, указывающий на генпоп-тюрьму.
   components:
   - type: Sprite
     state: genpop
@@ -1355,8 +1356,8 @@
 - type: entity
   parent: BaseSign
   id: SignDetective
-  name: Detective sign
-  description: A sign depicting the detective's office.
+  name: Знак детектива
+  description: Вывеска с изображением офиса детектива.
   components:
   - type: Sprite
     state: detective

@@ -1,8 +1,9 @@
 # Defines the scurret, a small, agile sapient species intended for players who want to play as something similar to an ewok.
 # Although based on MobBaseAncestor, this species does not have a "developed" playable species it is an ancestor to.
+# Omega station localisation: checkthiskd lic.
 
 - type: entity
-  name: scurret
+  name: Скаррет
   id: MobBaseScurret
   parent: MobBaseAncestor
   abstract: true
@@ -186,8 +187,8 @@
 # Spawnable scurrets have a random name and colour.
 
 - type: entity
-  name: scurret
-  description: Commonly known as Wawa, from the wetlands of Planet Wawa, these critters make up the bulk of Arnolds's Pizza's "loyal workforce".
+  name: Скаррет
+  description: Эти создания, широко известные как Вава (в честь водно-болотных угодий планеты Вава), составляют основную часть «верных работников» пиццерии Arnolds's Pizza.
   id: MobScurret
   parent: MobBaseScurret
   components:
@@ -241,7 +242,7 @@
 # Spawnable ESS have a ghost role, equipment, a random name and a random colour.
 
 - type: entity
-  name: Emotional Support Scurret
+  name: Эмоциальная поддержка Скаррета
   id: MobEmotionalSupportScurret
   parent: [MobScurret, MobBaseEmotionalSupportScurret]
-  description: Commonly known as Wawa, from the wetlands of Planet Wawa, these critters make up the bulk of Arnold's Pizza's "loyal workforce". This one is here as a temp.
+  description: Эти создания, известные как Вава, по названию болот планеты Вава, составляют основную часть «верных сотрудников» пиццерии «Арнольдс Пицца». Этот здесь в качестве временного сотрудника.

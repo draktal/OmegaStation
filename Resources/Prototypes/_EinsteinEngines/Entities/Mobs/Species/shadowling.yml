@@ -1,6 +1,8 @@
+# Omega station localisation: checkthiskd lic.
+
 - type: entity
   save: false
-  name: Urist McSling
+  name: Урист МакСлинг
   parent: BaseMobSpeciesOrganic
   id: BaseMobShadowling
   categories: [HideSpawnMenu]

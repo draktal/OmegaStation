@@ -172,6 +172,7 @@
 # SPDX-FileCopyrightText: 2025 deltanedas <@deltanedas:kde.org>
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
+# Omega station localisation: checkthiskd lic.
 
 - type: entity
   abstract: true
@@ -1728,7 +1729,7 @@
 - type: entity
   parent: ClearPDA
   id: ScurretPDA
-  description: A temporary PDA granted to scurret temps. Doesn't do much. Wawa!
+  description: Временный КПК, выдаваемый временным сотрудникам. Ничего толком не делает. Ух ты!
   components:
   - type: Pda
     id: VisitorIDCard

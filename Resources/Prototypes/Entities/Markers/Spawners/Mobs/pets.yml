@@ -1,3 +1,5 @@
+# Omega station localisation: checkthiskd lic.
+
 - type: entity
   parent: MarkerBase
   id: SpawnMobAlexander
@@ -206,7 +208,7 @@
 - type: entity
   parent: MarkerBase
   id: SpawnMobMonkeyPunpun
-  name: Pun Pun Spawner
+  name: Спавнер Пун Пуна
   suffix: Bartender Pet
   components:
   - type: Sprite
@@ -221,7 +223,7 @@
 - type: entity
   parent: MarkerBase
   id: SpawnMobPollyParrot
-  name: Polly the parrot Spawner
+  name: Спавнер Полли
   suffix: CE Pet
   components:
   - type: Sprite
@@ -236,7 +238,7 @@
 - type: entity
   parent: MarkerBase
   id: SpawnMobPossumMorty
-  name: Possum Morty Spawner
+  name: Спавнер Оппосум Морти
   suffix: Morgue Pet
   components:
   - type: Sprite
@@ -250,7 +252,7 @@
 - type: entity
   parent: MarkerBase
   id: SpawnMobRaccoonMorticia
-  name: Raccoon Morticia Spawner
+  name: Спавнер Енот Мортиша
   suffix: QM Pet
   components:
   - type: Sprite
@@ -264,7 +266,7 @@
 - type: entity
   parent: MarkerBase
   id: SpawnMobShiva
-  name: Shiva Spawner
+  name: Спавнер Шива
   suffix: Security Pet
   components:
   - type: Sprite
@@ -279,7 +281,7 @@
 - type: entity
   parent: MarkerBase
   id: SpawnMobSlothPaperwork
-  name: Sloth Paperwork Spawner
+  name: Спавнер ленивых бумаг
   suffix: Librarian Pet
   components:
   - type: Sprite
@@ -293,7 +295,7 @@
 - type: entity
   parent: MarkerBase
   id: SpawnMobSmile
-  name: Smile Spawner
+  name: Спавнер Улыбки
   suffix: Science Pet
   components:
   - type: Sprite
@@ -307,7 +309,7 @@
 - type: entity
   parent: MarkerBase
   id: SpawnMobWalter
-  name: Walter Spawner
+  name: Спавнер Валтер
   suffix: Chemistry Pet
   components:
   - type: Sprite
